@@ -21,3 +21,14 @@ These are the key ones I've found so far (will add any further to abive list).
 #### Wittgenstein Centre
 
 #### Global Burden of Disease Study (& IHME?)
+
+
+### Methodological sources
+
+Currently storing these for review later - not necessarily all relevant
+
+* [Bayesian Population Projections for the United Nations](https://arxiv.org/abs/1405.4708) - need to understand how this relates to current projections, also worth a look at authors and broader body of work (true for all refs here)
+* [Bayesian Poisson Log-normal Model with Regularized Time Structure for Mortality Projection of Multi-population](https://arxiv.org/abs/2010.04775) - principally for looking at references
+* [A Bayesian cohort component projection model to estimate adult populations at the subnational level in data-sparse settings](https://arxiv.org/abs/2102.06121)
+* [The Probabilistic Explanation of the Cohort Component Population Projection Method](https://arxiv.org/abs/2109.13015) - hopefully helpful for better understanding uncertainties in CCPPM
+* [Probabilistic Population Projections for Countries with Generalized HIV/AIDS Epidemics](https://arxiv.org/abs/1609.04383)
