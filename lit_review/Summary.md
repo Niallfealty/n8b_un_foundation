@@ -19,7 +19,7 @@ These are the key ones I've found so far (will add any further to abive list).
 
 #### World Bank forecast
 
-Forecast methodology is described here (aside on content - this page shows a badly rendered equation: Xt = Xo (1 + r)t . = Xo (1 + r)t . = Xo (1 + r)t . is consistent with their claims if it is typeset as $$ x_t = x_0 (1 + r)^t $$)
+Forecast methodology is described here (aside on content - this page shows a badly rendered equation: Xt = Xo (1 + r)t . = Xo (1 + r)t . = Xo (1 + r)t . is consistent with their claims if it is typeset as $x_t = x_0 (1 + r)^t$)
 
 #### Wittgenstein Centre
 
