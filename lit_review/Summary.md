@@ -25,6 +25,17 @@ Foundationally cohort component but generalised to include a model of interactio
 E4A criticism seems to be focused around limitation of adding in causal effects and not accounting for further impacting factors (which seems consistent with the E4A chosen approach).
 
 
+#### Lancet model
+
+Described principally as adding further causes (health/contraception) which is incorporated in the form of a "cause-specific" mortality as a function of three factors - Socio-Demographic Index (SDI), "a risk-factor scalar that captures the combined risk factor effects for specific causes" and an ARIMA [though I suspect this could be the I(1) model mentioned later] to account for unexplained residual mortality. There is also a fertility model for no of children by the end of reproductive lifespan as a function of contraceptive met-need and female educational attainment. Finally net migration is modelled as a function of SDI, death due to conflict + natural disasters and diff between birth/death rates.
+
+Lancet model also includes a mechanism connecting demographic and socio-demographic developments, calculating GDP of expected changes in national/global age structures.
+
+#### Overall commentary
+
+TODO: add image
+
+
 ### Forecasts and sources
 
 Some of the main forecasts considered are here:
