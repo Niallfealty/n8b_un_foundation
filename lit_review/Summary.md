@@ -17,6 +17,10 @@ These are the key ones I've found so far (will add any further to abive list).
 
 #### UN Population division forecast
 
+* Main resources here [UN - Department of Economic and Social Affairs: Population Division](https://population.un.org/wpp/)
+* Cohort component projection (Leslie model with a migration term), non-constant fertility model (based on demographic transitions), more recently with a Bayesian inference model for fertility and mortality
+* Well-established methodology with a lot of work done to account for obvserved non-trivial dynamics in fertility and mortality (c.f. demographic transitions)
+
 #### World Bank forecast
 
 Forecast methodology is described here (aside on content - this page shows a badly rendered equation: Xt = Xo (1 + r)t . = Xo (1 + r)t . = Xo (1 + r)t . is consistent with their claims if it is typeset as $x_t = x_0 (1 + r)^t$)
