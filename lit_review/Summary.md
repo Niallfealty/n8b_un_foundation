@@ -55,6 +55,16 @@ These are the key ones I've found so far (will add any further to abive list).
 * Cohort component projection (Leslie model with a migration term), non-constant fertility model (based on demographic transitions), more recently with a Bayesian inference model for fertility and mortality
 * Well-established methodology with a lot of work done to account for obvserved non-trivial dynamics in fertility and mortality (c.f. demographic transitions)
 
+
+##### Revisions to probabilistic forecast
+
+[A 2014 article published by the UNPD](https://arxiv.org/pdf/1405.4708.pdf) was published to address concerns about long-term distribution of fertility (as well as the lack of any formal uncertainty bounds).
+
+This gives a brief review of methodolgy from a mathematical modelling standpoint and then motivates the need for adding a Bayesian hierarchical model.
+
+
+
+(n.b. this is also studied [in this paper](https://www.researchgate.net/publication/51485137_Probabilistic_Projections_of_the_Total_Fertility_Rate_for_All_Countries), but I need to determine whether this is the origin of the complete methodology)
 #### World Bank forecast
 
 Forecast methodology is described here (aside on content - this page shows a badly rendered equation: Xt = Xo (1 + r)t . = Xo (1 + r)t . = Xo (1 + r)t . is consistent with their claims if it is typeset as $x_t = x_0 (1 + r)^t$)
