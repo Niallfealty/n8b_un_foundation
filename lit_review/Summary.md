@@ -64,7 +64,7 @@ This gives a brief review of methodolgy from a mathematical modelling standpoint
 
 
 
-(n.b. this is also studied [in this paper](https://www.researchgate.net/publication/51485137_Probabilistic_Projections_of_the_Total_Fertility_Rate_for_All_Countries), but I need to determine whether this is the origin of the complete methodology)
+(n.b. this is also discussed [in this paper](https://www.researchgate.net/publication/51485137_Probabilistic_Projections_of_the_Total_Fertility_Rate_for_All_Countries), the historical context appears to be that the median scenario in this Bayesian projection was used as the medium scenario in the 2010 projection but I need to determine whether this methodology is the same)
 #### World Bank forecast
 
 Forecast methodology is described here (aside on content - this page shows a badly rendered equation: Xt = Xo (1 + r)t . = Xo (1 + r)t . = Xo (1 + r)t . is consistent with their claims if it is typeset as $x_t = x_0 (1 + r)^t$)
