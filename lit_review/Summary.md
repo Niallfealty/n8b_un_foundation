@@ -18,6 +18,13 @@ Data-wise it collects "best available" demographic data and applies analytical i
 
 My distillation would be that this treats population as a function of several exogenous factors (its decoupled from any other dynamic factor).
 
+#### Wittgenstein Centre Approach
+
+Foundationally cohort component but generalised to include a model of interaction between future fertility, mortality, migration and education. Main motivation for adding in education is the theory/model assumption that it has a causal impact on fertility. Some open questions around causal impact, seems to be some inconsistency around observed trend (different for different stages of development).
+
+E4A criticism seems to be focused around limitation of adding in causal effects and not accounting for further impacting factors (which seems consistent with the E4A chosen approach).
+
+
 ### Forecasts and sources
 
 Some of the main forecasts considered are here:
