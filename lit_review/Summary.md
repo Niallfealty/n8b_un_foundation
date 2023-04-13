@@ -6,7 +6,7 @@ N.B. Subject to being used as a scratchpad during lit review, to be whittled dow
 
 ### Overview
 
-From the Earth4All modelling study there is a great review of the main demographic modelling approaches in [the paper "People and Planet"](https://earth4all.life/wp-content/uploads/2023/04/E4A_People-and-Planet_Report.pdf) (section "2. Overview of main demographic approaches" TODO: link to paper TODO: link to paper).
+From the Earth4All modelling study there is a great review of the main demographic modelling approaches in [the paper "People and Planet"](https://earth4all.life/wp-content/uploads/2023/04/E4A_People-and-Planet_Report.pdf) (section "2. Overview of main demographic approaches" TODO: link to paper).
 
 This provides a great summary of the main forecast's approaches, somewhat condensed this frames them in the following way:
 
