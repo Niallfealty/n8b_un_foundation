@@ -89,11 +89,11 @@ Forecast methodology is described here (aside on content - this page shows a bad
 
 To give a clearer picture of the way the system is constructed we include the following diagrams showing how these sub-systems interact
 
-![High level schematic](/images/Earth4All_major_sectors_diagram.png)
+![High level schematic](https://github.com/Niallfealty/n8b_un_foundation/blob/main/lit_review/images/Earth4All_major_sectors_diagram.png)
 
 For a more detailed picture we also include the following more complex diagram
 
-![Low level detail](/images/model_causal_diagram.png)
+![Low level detail](https://github.com/Niallfealty/n8b_un_foundation/blob/main/lit_review/images/model_causal_diagram.png)
 
 ### Methodological sources
 
