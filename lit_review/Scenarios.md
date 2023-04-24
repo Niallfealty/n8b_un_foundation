@@ -13,7 +13,7 @@ These are the scenarios we consider:
 1. Things improve - population growth is reduced and severe impacts are lessened (sublinear increase or reductions in impact). Outcome is lower population with better prospects.
 2. Business as Usual - continuation along roughly the same trajectory (looks somewhat like an extrapolation of current trends/linear(?) trend). Important to understand likely specific impacts and what things look like for population.
 3. Things deteriorate - population growth impacts increase over time (superlinear trend, more severe than continuation of trend). Outcomes are larger population with worse prospects.
-4. Catastrophic failure - very large growth (e.g. exponential, at least in specific locales) and significant impacts from this (e.g. knock-on climate impacts). Outcomes are severe impact for both population and climate/environment, potential population collapse as consequence.
+4. Catastrophic failure - very large growth (e.g. exponential, at least in specific locales) and significant impacts from this (e.g. knock-on climate impacts). Outcomes are severe impact for both population and climate/environment, potential population collapse as consequence. Note comments on population as a climate driver in [latest IPCC synthesis report](https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_LongerReport.pdf)
 
 ## Measured against scenarios in key projections
 
