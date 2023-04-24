@@ -38,18 +38,18 @@ TODO: add image
 
 ### Forecasts and sources
 
-Some of the main forecasts considered are here:
+The main forecasts considered are here:
 
 * [UN - Department of Economic and Social Affairs: Population Division](https://population.un.org/wpp/) - key for this study
 * [Wittgenstein Centre (IIASA)](https://www.wittgensteincentre.org/en/index.htm)
-* Global Burden of Disease Study ([Pop. forecast paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30677-2/fulltext)) ([project site](https://www.thelancet.com/gbd))
-* [Institute for Health Metrics and Evaluation](https://www.healthdata.org/data-visualization/population-forecasting) - appears to be tied to Global Burden of Disease Study (project part of institute perhaps? Further reading needed)
+* Global Burden of Disease Study (referred to in some literature as **Lancet Model**) ([Pop. forecast paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30677-2/fulltext)) ([project site](https://www.thelancet.com/gbd)) [Institute for Health Metrics and Evaluation](https://www.healthdata.org/data-visualization/population-forecasting)
+* [Earth4All model (link to publications page of project site)](https://earth4all.life/publications/)
 
 Additionally the following were reviewed but not considered relevant to the study
 * [World Bank](https://databank.worldbank.org/source/population-estimates-and-projections) Minimal information on methodology ([some minimal high level information here](https://datahelpdesk.worldbank.org/knowledgebase/articles/843507-what-are-the-methodologies-used-in-estimating-the), [deeper picture here but there seem to be some issues and open questions here](https://datahelpdesk.worldbank.org/knowledgebase/articles/906531-methodologies)
 * [DemographEye](https://worlddata.io/agespot-demographic-forecasts/) (looks like a local planning-specific tool but included on first pass as an attempt at completeness) - no obvious papers on methodology (suspect this is proprietary) and doesn't seem targeted toward our questions.
 
-Some observations and resources on these below.
+### Observations and resources on key forecasts
 
 #### UN Population division forecast
 
@@ -73,12 +73,19 @@ Forecast methodology is described here (aside on content - this page shows a bad
 
 #### Wittgenstein Centre
 
-#### Global Burden of Disease Study (& IHME?)
+#### Global Burden of Disease Study/Lancet model
 
 #### Earth4All projection
 
 * Lots of papers/documentation but very complex model
-* Great summary of state of art (TODO: put a link to where this is referenced later)
+* Based on a systems dynamical modelling approach it models a system with interacting parts rather than trying to separate out population from factors which impact population. So for example population will have an impact on (e.g.) GDP, global warming, which will then in turn have an impact on population according to the logic of the model
+* Designed for use in unerstanding the impact of policy decisions and actions on people around the World
+* A lot of documentation available but due to comlexity of models there isn't a single straightforward methodology paper, there is a lot of methodology spread across multiple papers and plans to continue publishing work on their methodology
+* From current literature some highlights are
+  * [Exec summary](https://earth4all.life/wp-content/uploads/2023/03/Earth4All_Exec_Summary_EN.pdf) - covers high level results and some of the scenario context/high level picture of modelling decisions
+  * [People and planet report](https://earth4all.life/wp-content/uploads/2023/04/E4A_People-and-Planet_Report.pdf) - source of summaries of UNPD/Wittgenstein/Lancet model above, covers a lot of analysis driving population components
+  * A preprint of the modelling is available [through this portal](https://eartharxiv.org/repository/view/5111/) which gives some of the technical detail on modelling
+* Great summary of state of art (see descriptions above)
 
 
 ### Methodological sources
