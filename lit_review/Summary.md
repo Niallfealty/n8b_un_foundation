@@ -34,6 +34,21 @@ This is the foundational basis for the majority of population forecasts, and is 
 
 The UNPD projections use a vast collection of data sources [documented here](https://population.un.org/wpp/Publications/Files/WPP2022_Data_Sources.pdf). These sources are collected together to build a "best achievable" picture of the population across the World, and these include analyst-applied adjustments to refine the estimates according to known effects (e.g. [age heaping](https://en.wikipedia.org/wiki/Whipple's_index)). This gives a "best guess" to populations, fertility, mortality and migration globally, and this dataset is relied upon in other works (not least some of the other projections we consider).
 
+#### Uncertainty
+
+Recent additions to the UNPD projection are probabilistic models for fertility, mortality and migration
+
+#### Scenarios
+
+The UNPD projections model the following scenarios:
+
+- Several different fertility assumptions:
+  - Low, medium, high
+  - Constant-fertility
+  - Instant-replacement (TODO: confirm interpretation as tot births==tot deaths per year)
+- An addition to the instant replacement scenario which also assumes zero-migration[^1]
+
+[^1]: Technical note: Need to validate but this is essentially the same approach as taking the largest eigenvalue of the Leslie matrix - insofar as it's looking at asymptotics of the model
 
 ### Witgenstein Centre population projection
 ### Lancet model (TODO: check proper title)
