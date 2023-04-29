@@ -2,6 +2,27 @@
 
 N.B. Subject to being used as a scratchpad during lit review, to be whittled down and split out into more modular notes later.
 
+<!-- toc -->
+
+- [Key sources/forecasts](#key-sourcesforecasts)
+  * [Overview](#overview)
+    + [UN Population Division forecast:](#un-population-division-forecast)
+    + [Wittgenstein Centre Approach](#wittgenstein-centre-approach)
+    + [Lancet model](#lancet-model)
+    + [Overall commentary](#overall-commentary)
+  * [Forecasts and sources](#forecasts-and-sources)
+  * [Observations and resources on key forecasts](#observations-and-resources-on-key-forecasts)
+    + [UN Population division forecast](#un-population-division-forecast)
+      - [Revisions to probabilistic forecast](#revisions-to-probabilistic-forecast)
+    + [World Bank forecast](#world-bank-forecast)
+    + [Wittgenstein Centre](#wittgenstein-centre)
+    + [Global Burden of Disease Study/Lancet model](#global-burden-of-disease-studylancet-model)
+      - [Improvements](#improvements)
+    + [Earth4All projection](#earth4all-projection)
+  * [Methodological sources](#methodological-sources)
+
+<!-- tocstop -->
+
 ## Key sources/forecasts
 
 ### Overview
