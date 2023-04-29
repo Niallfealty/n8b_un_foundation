@@ -47,8 +47,9 @@ The UNPD projections model the following scenarios:
   - Constant-fertility
   - Instant-replacement (TODO: confirm interpretation as tot births==tot deaths per year)
 - An addition to the instant replacement scenario which also assumes zero-migration[^1]
+- Finally a momentum scenario with alternative mortality assumptions to the above is incorporated
 
-[^1]: Technical note: Need to validate but this is essentially the same approach as taking the largest eigenvalue of the Leslie matrix - insofar as it's looking at asymptotics of the model
+[^1]: Technical note: Need to validate but this seems essentially the same approach as taking the largest eigenvalue of the Leslie matrix - insofar as it's looking at asymptotics of a constant model
 
 ### Witgenstein Centre population projection
 ### Lancet model (TODO: check proper title)
