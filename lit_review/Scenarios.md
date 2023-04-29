@@ -54,3 +54,4 @@ These compare to our categories as follows
 This section (which may be moved somewhere else as fits the general structure) documents studies on changes in trend or understanding whether or not there has been a shift in trend.
 
 - [This **preprint** from the Wittgenstein centre and Max Planck Institute for Demographic Research](https://osf.io/preprints/socarxiv/mvy62) looks at a potential fertility shock from Covid 19 (n.b. a preprint and suggests a shock imact rather than paradigm shift)
+- [this JAMA study](https://pubmed.ncbi.nlm.nih.gov/34081139/) gives context and suggests that while there may be (U.S. local) agreement this appears to be a blip and later surge can be expected
