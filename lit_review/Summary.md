@@ -79,6 +79,18 @@ Forecast methodology is described here (aside on content - this page shows a bad
 
 >We modelled future population in reference and alternative scenarios as a function of fertility, migration, and mortality rates. We developed statistical models for completed cohort fertility at age 50 years (CCF50). Completed cohort fertility is much more stable over time than the period measure of the total fertility rate (TFR). We modelled CCF50 as a time-series random walk function of educational attainment and contraceptive met need. Age-specific fertility rates were modelled as a function of CCF50 and covariates. We modelled age-specific mortality to 2100 using underlying mortality, a risk factor scalar, and an autoregressive integrated moving average (ARIMA) model. Net migration was modelled as a function of the Socio-demographic Index, crude population growth rate, and deaths from war and natural disasters; and use of an ARIMA model. The model framework was used to develop a reference scenario and alternative scenarios based on the pace of change in educational attainment and contraceptive met need. We estimated the size of gross domestic product for each country and territory in the reference scenario. Forecast uncertainty intervals (UIs) incorporated uncertainty propagated from past data inputs, model estimation, and forecast data distributions.
 
+##### Improvements
+
+The Lancet paper claims a few improvements over UNPD and Wittgenstein (listed with some comments)
+
+- Use more stable measure Completed Cohort Fertility at age 50 years (CCF50) [TODO: simple explanation - I think this is essentially an aggregation of fertility but need to determine how this is applied in forecast]
+- This is then modelled as a function of educational attainment and contraceptive met need (TODO: specifically?), which they claim accounts for 80.5% of variance (TODO: so $R^2 ~= 0.85$?)
+- Used a causal model (TODO: regression?) to explore scenarios for these variables and impact on model - explicitly with the aim of exploring policy
+- Applied future health scenarios (TODO: published by same group?) to explore impact of ed. scenarios, this essentially forms a separate model for mortality
+- Built a time series model for migration modelling trends in Socio-demographic Index, crude population growth rate, and deaths from war and natural disasters
+- Uncertainty is propagated from fertility, mortality and migration to predictions (TODO: I thought this was available for at least UNPD...?)
+- Wording isn't totally clear (TODO: figure out this one) but they appear to compute the impact of GDP on population? (alternatively they may be working out the expected impact on GDP of population changes..)
+
 #### Earth4All projection
 
 * Lots of papers/documentation but very complex model
