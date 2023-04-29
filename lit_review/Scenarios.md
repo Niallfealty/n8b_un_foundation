@@ -46,3 +46,11 @@ These compare to our categories as follows
 - A N other scenario
 
 These compare to our categories as follows
+
+
+
+## Studies looking at recent trends/pattern shifts
+
+This section (which may be moved somewhere else as fits the general structure) documents studies on changes in trend or understanding whether or not there has been a shift in trend.
+
+- [This **preprint** from the Wittgenstein centre and Max Planck Institute for Demographic Research](https://osf.io/preprints/socarxiv/mvy62) looks at a potential fertility shock from Covid 19 (n.b. a preprint and suggests a shock imact rather than paradigm shift)
