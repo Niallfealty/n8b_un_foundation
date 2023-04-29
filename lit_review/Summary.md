@@ -18,6 +18,23 @@ We consider the following forecasts to be relevant to the project.
 The following are high level summaries of the key forecasts, aimed at summarising the key points, impacts and relevance to the N8B analysis, for a concise review of how the first three (all bar the Earth4All model) fit together in the context of population modelling see [the Earth4All "People and Planet" report](https://earth4all.life/wp-content/uploads/2023/04/E4A_People-and-Planet_Report.pdf) (section "2. Overview of main demographic approaches")
 
 ### United Nations Population Division: Population Prospects
+
+#### Overview
+
+Primary forecast under consideration.
+
+The UNPD model does not consider external drivers of population growth (i.e. an apolitical/policy-decision independent strategy), predicting the future population on the basis of:
+- "Ageing" cohorts
+- Accounting for births and deaths (and modelling future from historical patterns)
+- Modelling migration
+
+This is the foundational basis for the majority of population forecasts, and is well established in the field.
+
+#### Data
+
+The UNPD projections use a vast collection of data sources [documented here](https://population.un.org/wpp/Publications/Files/WPP2022_Data_Sources.pdf). These sources are collected together to build a "best achievable" picture of the population across the World, and these include analyst-applied adjustments to refine the estimates according to known effects (e.g. [age heaping](https://en.wikipedia.org/wiki/Whipple's_index)). This gives a "best guess" to populations, fertility, mortality and migration globally, and this dataset is relied upon in other works (not least some of the other projections we consider).
+
+
 ### Witgenstein Centre population projection
 ### Lancet model (TODO: check proper title)
 ### Earth4All model
