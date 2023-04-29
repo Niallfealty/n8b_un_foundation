@@ -6,7 +6,7 @@ N.B. Subject to being used as a scratchpad during lit review, to be whittled dow
 
 ### Overview
 
-From the Earth4All modelling study there is a great review of the main demographic modelling approaches in [the paper "People and Planet"](https://earth4all.life/wp-content/uploads/2023/04/E4A_People-and-Planet_Report.pdf) (section "2. Overview of main demographic approaches" TODO: link to paper).
+From the Earth4All modelling study there is a helpful review of the main demographic modelling approaches in [the paper "People and Planet"](https://earth4all.life/wp-content/uploads/2023/04/E4A_People-and-Planet_Report.pdf) (section "2. Overview of main demographic approaches").
 
 This provides a great summary of the main forecast's approaches, somewhat condensed this frames them in the following way:
 
@@ -74,6 +74,12 @@ Forecast methodology is described here (aside on content - this page shows a bad
 #### Wittgenstein Centre
 
 #### Global Burden of Disease Study/Lancet model
+
+[The Lancet paper is here](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930677-2/fulltext), lifting their methods section:
+
+'''
+We modelled future population in reference and alternative scenarios as a function of fertility, migration, and mortality rates. We developed statistical models for completed cohort fertility at age 50 years (CCF50). Completed cohort fertility is much more stable over time than the period measure of the total fertility rate (TFR). We modelled CCF50 as a time-series random walk function of educational attainment and contraceptive met need. Age-specific fertility rates were modelled as a function of CCF50 and covariates. We modelled age-specific mortality to 2100 using underlying mortality, a risk factor scalar, and an autoregressive integrated moving average (ARIMA) model. Net migration was modelled as a function of the Socio-demographic Index, crude population growth rate, and deaths from war and natural disasters; and use of an ARIMA model. The model framework was used to develop a reference scenario and alternative scenarios based on the pace of change in educational attainment and contraceptive met need. We estimated the size of gross domestic product for each country and territory in the reference scenario. Forecast uncertainty intervals (UIs) incorporated uncertainty propagated from past data inputs, model estimation, and forecast data distributions.
+'''
 
 #### Earth4All projection
 
