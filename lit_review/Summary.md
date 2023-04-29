@@ -36,7 +36,11 @@ The UNPD projections use a vast collection of data sources [documented here](htt
 
 #### Uncertainty
 
-Recent additions to the UNPD projection are probabilistic models for fertility, mortality and migration
+Recent additions to the UNPD projection are probabilistic models for fertility and mortality.
+
+[This brief guide to uncertainty](https://www.un.org/en/development/desa/population/publications/pdf/popfacts/PopFacts_2019-6.pdf) provides an overview and some visualisation of the uncertainty in the projections, stating that uncertainty comes from three sources: fertility, mortality and migration (with the former being the biggest driver of uncertainty)[^1]
+
+[^2]: Strictly there is an uncertainty on the data, which doesn't seem to be pulled into the prediction, I haven't found this addressed anywhere.
 
 #### Scenarios
 
@@ -46,10 +50,10 @@ The UNPD projections model the following scenarios:
   - Low, medium, high
   - Constant-fertility
   - Instant-replacement (TODO: confirm interpretation as tot births==tot deaths per year)
-- An addition to the instant replacement scenario which also assumes zero-migration[^1]
+- An addition to the instant replacement scenario which also assumes zero-migration[^2]
 - Finally a momentum scenario with alternative mortality assumptions to the above is incorporated
 
-[^1]: Technical note: Need to validate but this seems essentially the same approach as taking the largest eigenvalue of the Leslie matrix - insofar as it's looking at asymptotics of a constant model
+[^2]: Technical note: Need to validate but this seems essentially the same approach as taking the largest eigenvalue of the Leslie matrix - insofar as it's looking at asymptotics of a constant model
 
 ### Witgenstein Centre population projection
 ### Lancet model (TODO: check proper title)
