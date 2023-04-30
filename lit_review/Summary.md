@@ -59,7 +59,7 @@ The UNPD projections model the following scenarios:
 
 The UNPD WPP projection fertility and mortality models depend on the assumption of a fertility and mortality transition (a shift from a higher level of birth and death rate to a lower - also known as [an epidemiological transition](https://en.wikipedia.org/wiki/Epidemiological_transition)). These transitions have been observed, studied and statistically fit to a particular pattern.
 
-UNPD models have account for these transitions using a model of their general structure. A more recent development was to refine curve fitting (parameter estimation)  in such a way that would also provide [the uncertainty mentioned above](#### Uncertainty) ([Bayesian model described in this technical paper](https://arxiv.org/pdf/1405.4708.pdf)).
+UNPD models have account for these transitions using a model of their general structure. A more recent development was to refine curve fitting (parameter estimation)  in such a way that would also provide [the uncertainty mentioned above](#Uncertainty) ([Bayesian model described in this technical paper](https://arxiv.org/pdf/1405.4708.pdf)).
 
 ### Witgenstein Centre population projection
 ### Lancet model (TODO: check proper title)
