@@ -40,7 +40,7 @@ Recent additions to the UNPD projection are probabilistic models for fertility a
 
 [This brief guide to uncertainty](https://www.un.org/en/development/desa/population/publications/pdf/popfacts/PopFacts_2019-6.pdf) provides an overview and some visualisation of the uncertainty in the projections, stating that uncertainty comes from three sources: fertility, mortality and migration (with the former being the biggest driver of uncertainty)[^1]
 
-[^2]: Strictly there is an uncertainty on the data, which doesn't seem to be pulled into the prediction, I haven't found this addressed anywhere.
+[^2]: Strictly there is an uncertainty on the data, which doesn't seem to be pulled into the prediction, I haven't found this addressed anywhere so seems reasonable to take this as assumed negligible.
 
 #### Scenarios
 
@@ -54,6 +54,12 @@ The UNPD projections model the following scenarios:
 - Finally a momentum scenario with alternative mortality assumptions to the above is incorporated
 
 [^2]: Technical note: Need to validate but this seems essentially the same approach as taking the largest eigenvalue of the Leslie matrix - insofar as it's looking at asymptotics of a constant model
+
+#### Fertility and mortality transitions
+
+The UNPD WPP projection fertility and mortality models depend on the assumption of a fertility and mortality transition (a shift from a higher level of birth and death rate to a lower - also known as [an epidemiological transition](https://en.wikipedia.org/wiki/Epidemiological_transition)). These transitions have been observed, studied and statistically fit to a particular pattern.
+
+UNPD models have account for these transitions using a model of their general structure. A more recent development was to refine curve fitting (parameter estimation)  in such a way that would also provide [the uncertainty mentioned above](#### Uncertainty) ([Bayesian model described in this technical paper](https://arxiv.org/pdf/1405.4708.pdf)).
 
 ### Witgenstein Centre population projection
 ### Lancet model (TODO: check proper title)
