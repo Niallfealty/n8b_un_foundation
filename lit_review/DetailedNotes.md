@@ -77,6 +77,7 @@ Additionally the following were reviewed but not considered relevant to the stud
 * Main resources here [UN - Department of Economic and Social Affairs: Population Division](https://population.un.org/wpp/)
 * Cohort component projection (Leslie model with a migration term), non-constant fertility model (based on demographic transitions), more recently with a Bayesian inference model for fertility and mortality
 * Well-established methodology with a lot of work done to account for obvserved non-trivial dynamics in fertility and mortality (c.f. demographic transitions)
+* [This set of slides](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/unpd_egm_202004_s1_sevcikova.pdf) covers some interesting issues around current forecasting methodology
 
 
 ##### Revisions to probabilistic forecast
