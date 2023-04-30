@@ -102,9 +102,11 @@ UNPD models have account for these transitions using a model of their general st
 #### Other
 
 
-### Lancet model (TODO: check proper title)
+### Global Burden of Disease study (aka: Lancet model)
 
 #### Overview
+
+
 #### Data
 #### Uncertainty
 #### Scenarios
