@@ -114,9 +114,28 @@ UNPD models have account for these transitions using a model of their general st
 ### Earth4All model
 
 #### Overview
+
+The dynamics of the Earth4All are structurally different to the above, for the main reason that while population is one of things it projects it is critically a projection of multiple interacting factors (this is true to an extent in the second Lancet and Wittgenstein models but structurally this is a different class of model).
+
+In essence there is a model for population, and a model for (e.g.) GDP, Climate,... but these then have an impact on each other over each timestep, so one models the "entire" interacting system. The image below is a useful schematic for understanding how some of the key factors interact.
+
+![High level schematic](https://github.com/Niallfealty/n8b_un_foundation/blob/main/lit_review/images/Earth4All_major_sectors_diagram.png)
+
+In some sense one can look at this as a collection of models for different processes all of which depend to a degree on one another - this makes interpretation somewhat difficult in a mathematical perspective due to interdependency (it may be less clear how the dynamics of one system depend on another) and fully grasping the assumptions of the model[^3]
+
+[^3]: There is mentioned that due to the nuance and complexity of the model there is not yet a single comprehensive model description, and indeed the modelling is described over a nuber of detailed reports, some of which we cite in this document [some further key publications are available here](https://earth4all.life/publications/).
+
+[The stated purpose](https://earth4all.life/) for the Earth4All group is to understand what is needed from transformational economics on a finitely-resourced planet to sustain its population. Thus there is a direct interest in understanding policy impacts on population (and other modelled metrics) - so one may think of this as the opposite end of the spectrum to the UNPD WPP: i.e. a "political" model.
+
 #### Data
 #### Uncertainty
 #### Scenarios
+
+They model two scenarios:
+
+- Too Little Too Late (TLTL)
+- Giant Leap (GL)
+
 #### Other
 
 
