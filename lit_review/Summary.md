@@ -1,5 +1,36 @@
 # N8B Summary of forecast literature
 
+<!-- toc -->
+
+- [Key forecasts](#key-forecasts)
+- [Description of key forecasts](#description-of-key-forecasts)
+  * [United Nations Population Division: Population Prospects](#united-nations-population-division-population-prospects)
+    + [Overview](#overview)
+    + [Data](#data)
+    + [Uncertainty](#uncertainty)
+    + [Scenarios](#scenarios)
+    + [Fertility and mortality transitions](#fertility-and-mortality-transitions)
+  * [Witgenstein Centre population projection](#witgenstein-centre-population-projection)
+    + [Overview](#overview-1)
+    + [Data](#data-1)
+    + [Uncertainty](#uncertainty-1)
+    + [Scenarios](#scenarios-1)
+    + [Other](#other)
+  * [Lancet model (TODO: check proper title)](#lancet-model-todo-check-proper-title)
+    + [Overview](#overview-2)
+    + [Data](#data-2)
+    + [Uncertainty](#uncertainty-2)
+    + [Scenarios](#scenarios-2)
+    + [Other](#other-1)
+  * [Earth4All model](#earth4all-model)
+    + [Overview](#overview-3)
+    + [Data](#data-3)
+    + [Uncertainty](#uncertainty-3)
+    + [Scenarios](#scenarios-3)
+    + [Other](#other-2)
+
+<!-- tocstop -->
+
 This is a summary review of the information contained in other documents in this section. We briefly describe (and point to some useful high-level resources) main forecasts and key points related to later stages of the project.
 
 For a much more detailed review and resource collection of population projections please see the DetailedNotes.md document in this folder.
@@ -61,6 +92,31 @@ The UNPD WPP projection fertility and mortality models depend on the assumption 
 
 UNPD models have account for these transitions using a model of their general structure. A more recent development was to refine curve fitting (parameter estimation)  in such a way that would also provide [the uncertainty mentioned above](#Uncertainty) ([Bayesian model described in this technical paper](https://arxiv.org/pdf/1405.4708.pdf)).
 
+
 ### Witgenstein Centre population projection
+
+#### Overview
+#### Data
+#### Uncertainty
+#### Scenarios
+#### Other
+
+
 ### Lancet model (TODO: check proper title)
+
+#### Overview
+#### Data
+#### Uncertainty
+#### Scenarios
+#### Other
+
+
 ### Earth4All model
+
+#### Overview
+#### Data
+#### Uncertainty
+#### Scenarios
+#### Other
+
+
