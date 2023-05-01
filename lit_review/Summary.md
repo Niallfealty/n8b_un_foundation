@@ -101,10 +101,11 @@ The other key criticism ([Lancet paper](https://www.thelancet.com/journals/lance
 ### Witgenstein Centre population projection
 
 #### Overview
-#### Data
-#### Uncertainty
-#### Scenarios
-#### Other
+
+The Wittgenstein centre [have papers here,](https://www.jstor.org/stable/2695213?read-now=1&oauth_data=eyJlbWFpbCI6Im5pYWxsZmVhbHR5QGdvb2dsZW1haWwuY29tIiwiaW5zdGl0dXRpb25JZHMiOltdfQ&seq=11#page_scan_tab_contents) [and here](https://www.jstor.org/stable/26349563?seq=3) which make predictions from 2005-2050 with a model which was produced around this period (publication date in 2010).
+
+This aside it doesn't seem to produce a regular projection which makes it somewhat ill-suited for our purposes. Because of this we consider it as an important landmark in population projections and an important contributor but it does not provide a candidate data source.
+
 
 
 ### Global Burden of Disease study (aka: Lancet model)
@@ -127,7 +128,9 @@ The Lancet paper claims a few improvements over UNPD and Wittgenstein (listed wi
 
 #### Data
 
-Past UN data are used for migration model, other data are collected [here, on the Global Health Data eXchange](https://www.healthdata.org/data-tools-practices/data-sources)
+Past UN data are used for migration model, other data are collected [here, on the Global Health Data eXchange](https://www.healthdata.org/data-tools-practices/data-sources).
+
+
 
 #### Uncertainty
 
