@@ -96,6 +96,8 @@ UNPD models have account for these transitions using a model of their general st
 
 The main criticism of the UNPD WPP projections is that they are pure time-series models, not accounting for anything but models of fertility and mortality (see [Lancet model paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930677-2/fulltext) and the [Earth4All People and Planet report](https://earth4all.life/wp-content/uploads/2023/04/E4A_People-and-Planet_Report.pdf)).
 
+The other key criticism ([Lancet paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930677-2/fulltext)) is around assumptions about future behaviour, principally directed at migration assumptions (see previous section)
+
 ### Witgenstein Centre population projection
 
 #### Overview
@@ -111,7 +113,9 @@ The main criticism of the UNPD WPP projections is that they are pure time-series
 
 The Global Burden of Disease study is detailed [in this Lancet paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930677-2/fulltext) (hence the pseudonym).
 
-As the name suggests this study is focused on understanding the impacts of 
+As the name suggests this study is focused on understanding health impacts but also attempts to address its critiques of the Wittgenstein and UNPD WPP projections.
+
+
 
 #### Data
 #### Uncertainty
