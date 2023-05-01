@@ -78,6 +78,7 @@ Additionally the following were reviewed but not considered relevant to the stud
 * Cohort component projection (Leslie model with a migration term), non-constant fertility model (based on demographic transitions), more recently with a Bayesian inference model for fertility and mortality
 * Well-established methodology with a lot of work done to account for obvserved non-trivial dynamics in fertility and mortality (c.f. demographic transitions)
 * [This set of slides](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/unpd_egm_202004_s1_sevcikova.pdf) covers some interesting issues around current forecasting methodology
+* deeper look at forecasting methodology 2020 here: /C:/Users/Jess/Downloads/02-ES-520-521_Buettner-EN.pdf
 
 
 ##### Revisions to probabilistic forecast
