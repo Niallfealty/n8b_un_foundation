@@ -123,7 +123,7 @@ The Lancet paper claims a few improvements over UNPD and Wittgenstein (listed wi
 - Applied future health scenarios to explore impact of education scenarios, a separate model for mortality from [this Lancet paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2931694-5/fulltext) (to quote the paper: "This study provides a novel approach to modelling life expectancy, all-cause mortality and cause of death forecasts —and alternative future scenarios—for 250 causes of death from 2016 to 2040 in 195 countries and territories.")
 - Built a time series model for migration modelling trends in Socio-demographic Index, crude population growth rate, and deaths from war and natural disasters
 - Uncertainty is propagated from fertility, mortality and migration to predictions
-- Wording isn't totally clear (TODO: figure out this one) but they appear to compute the impact of GDP on population? (alternatively they may be working out the expected impact on GDP of population changes..)
+- They also feed this population forecast into a GDP model
 
 #### Data
 
@@ -138,7 +138,15 @@ The methodologies used admit (and explicitly state) an "error" term which can gi
 
 #### Scenarios
 
+From the Lancet paper
+> In addition to the reference scenario, we developed four alternative scenarios that reflected faster or slower trajectories for two key drivers of fertility rates: education of females, and access to modern reproductive health services, measured by contraceptive met need.
+> The slower, faster, and fastest alternate scenarios were derived by setting the annualised rate of change for education and contraceptive met need to their respective 15th, 85th, and 99th percentile rates of change across locations in the period 1990–2017. For the UN Sustainable Development Goal (SDG) pace alternate scenario, we set a rate of change to one that would allow all locations to meet the SDG targets for educational attainment (universal secondary education by 2030)
+> and contraceptive met need (universal coverage by 2030).
+> We held those rates constant past 2030 in the education SDG scenario, and held contraceptive met need at 100% coverage past 2030 (appendix 1, section 10). This scenario shows what we can expect population trends to look like if every country and territory meets the SDGs for education and contraceptive met need by 2030. Many countries are not on track to achieve these goals.
 
+They specify several scenarios based on trajectories of multiple measures and have modelled the following:
+- Reference scenario (base model, "vanilla" assumptions)
+- Slower, faster, fastest and SDG contraceptive met need and female education trends
 
 #### Other
 
