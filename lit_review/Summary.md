@@ -127,7 +127,7 @@ The Lancet paper claims a few improvements over UNPD and Wittgenstein (listed wi
 
 #### Data
 
-Past UN data are used for migration model
+Past UN data are used for migration model, other data are collected [here, on the Global Health Data eXchange](https://www.healthdata.org/data-tools-practices/data-sources)
 
 #### Uncertainty
 
