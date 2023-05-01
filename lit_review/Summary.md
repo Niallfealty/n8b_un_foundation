@@ -120,16 +120,26 @@ The Lancet paper claims a few improvements over UNPD and Wittgenstein (listed wi
 - Use more stable measure Completed Cohort Fertility at age 50 years (CCF50) "defined as the average number of children born to an individual female from an observed birth cohort if she lived to the end of her reproductive lifespan (age 15–49 years)" 
 - This is then modelled as a function of educational attainment and contraceptive met need (which improves their model fit)
 - Used a causal model to explore scenarios for these variables and impact on model - explicitly with the aim of exploring policy
-- Applied future health scenarios to explore impact of education scenarios, this essentially forms a separate model for mortality ()
+- Applied future health scenarios to explore impact of education scenarios, a separate model for mortality from [this Lancet paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2931694-5/fulltext) (to quote the paper: "This study provides a novel approach to modelling life expectancy, all-cause mortality and cause of death forecasts —and alternative future scenarios—for 250 causes of death from 2016 to 2040 in 195 countries and territories.")
 - Built a time series model for migration modelling trends in Socio-demographic Index, crude population growth rate, and deaths from war and natural disasters
-- Uncertainty is propagated from fertility, mortality and migration to predictions (TODO: I thought this was available for at least UNPD...?)
+- Uncertainty is propagated from fertility, mortality and migration to predictions
 - Wording isn't totally clear (TODO: figure out this one) but they appear to compute the impact of GDP on population? (alternatively they may be working out the expected impact on GDP of population changes..)
 
-
-
 #### Data
+
+Past UN data are used for migration model
+
 #### Uncertainty
+
+The methodologies used admit (and explicitly state) an "error" term which can give a statistical measure of uncertainty. There are some commentaries on some of the results in the paper:
+
+- The migration model (simple time-series model) has a very large uncertainty (while it accounts for a lot of variables this is not surprising heuristically given the complex nature of drivers of migration)
+- Errors/CIs are clearly stated for all figures
+
 #### Scenarios
+
+
+
 #### Other
 
 
