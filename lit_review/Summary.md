@@ -115,6 +115,16 @@ The Global Burden of Disease study is detailed [in this Lancet paper](https://ww
 
 As the name suggests this study is focused on understanding health impacts but also attempts to address its critiques of the Wittgenstein and UNPD WPP projections.
 
+The Lancet paper claims a few improvements over UNPD and Wittgenstein (listed with some comments)
+
+- Use more stable measure Completed Cohort Fertility at age 50 years (CCF50) "defined as the average number of children born to an individual female from an observed birth cohort if she lived to the end of her reproductive lifespan (age 15–49 years)" 
+- This is then modelled as a function of educational attainment and contraceptive met need (which improves their model fit)
+- Used a causal model to explore scenarios for these variables and impact on model - explicitly with the aim of exploring policy
+- Applied future health scenarios to explore impact of education scenarios, this essentially forms a separate model for mortality ()
+- Built a time series model for migration modelling trends in Socio-demographic Index, crude population growth rate, and deaths from war and natural disasters
+- Uncertainty is propagated from fertility, mortality and migration to predictions (TODO: I thought this was available for at least UNPD...?)
+- Wording isn't totally clear (TODO: figure out this one) but they appear to compute the impact of GDP on population? (alternatively they may be working out the expected impact on GDP of population changes..)
+
 
 
 #### Data
