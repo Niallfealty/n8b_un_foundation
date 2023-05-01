@@ -92,6 +92,9 @@ The UNPD WPP projection fertility and mortality models depend on the assumption 
 
 UNPD models have account for these transitions using a model of their general structure. A more recent development was to refine curve fitting (parameter estimation)  in such a way that would also provide [the uncertainty mentioned above](#Uncertainty) ([Bayesian model described in this technical paper](https://arxiv.org/pdf/1405.4708.pdf)).
 
+#### Key criticisms
+
+The main criticism of the UNPD WPP projections is that they are pure time-series models, not accounting for anything but models of fertility and mortality (see [Lancet model paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930677-2/fulltext) and the [Earth4All People and Planet report](https://earth4all.life/wp-content/uploads/2023/04/E4A_People-and-Planet_Report.pdf)).
 
 ### Witgenstein Centre population projection
 
@@ -106,6 +109,9 @@ UNPD models have account for these transitions using a model of their general st
 
 #### Overview
 
+The Global Burden of Disease study is detailed [in this Lancet paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930677-2/fulltext) (hence the pseudonym).
+
+As the name suggests this study is focused on understanding the impacts of 
 
 #### Data
 #### Uncertainty
