@@ -130,13 +130,42 @@ In some sense one can look at this as a collection of models for different proce
 [The stated purpose](https://earth4all.life/) for the Earth4All group is to understand what is needed from transformational economics on a finitely-resourced planet to sustain its population. Thus there is a direct interest in understanding policy impacts on population (and other modelled metrics) - so one may think of this as the opposite end of the spectrum to the UNPD WPP: i.e. a "political" model.
 
 #### Data
+
+[In the methodology paper](https://eartharxiv.org/repository/view/5111/) data is referenced from numerous sources (though there doesn't seem to be sourcing for the model data so far). One of these is "UN Population statistics" which could plausibly be the UN population data the UNPD WPP is based on. More generally, while there are sources for data used in the technical paper on methodology, and [some summaries of model parameters available](https://stockholmuniversity.app.box.com/s/uh7fjh52pvh7yx1mqfwqcyxdcvegrodf/folder/170483416144) here, there doesn't as yet appear to be a definitive set of data sources as yet.
+
 #### Uncertainty
+
+Similarly there are some model uncertainties provided, but no specific methodology. It seems reasonable to suppose (from some descriptions of the software and prior experience of the territory along with similar software) that this is a Monte-Carlo simulation and outputs a predictive distribution - which can then be used to generate an uncertainty. This is merely a supposition for the time being however.
+
 #### Scenarios
 
 They model two scenarios:
 
 - Too Little Too Late (TLTL)
 - Giant Leap (GL)
+
+The difference between these two scenarios is stated as the following:
+```
+Poverty Turnaround:
+Accelerate GDP growth in countries with less than 15 k$/p/y using modern technology –debt
+cancellation, new development models, more industrial policy and infant industry protection
+Inequality Turnaround:
+Take from the few rich and give to the many poor – higher taxes on owners used to improve the
+wellbeing of the working majority
+Empowerment Turnaround:
+Improve the quality of life for women so they prefer to have few children – more education,
+health, contraception, and opportunity
+Food Turnaround:
+Reduce the annual crop needed to feed everyone the diet they demand – more efficiency, less
+waste, less red meat, more regenerative agriculture
+Energy Turnaround:
+Reduce the GHG emissions from the energy production that is needed to give everyone the energy
+supply they demand – more efficiency, more electrification, more renewables, more CCS.
+```
+
+source: [methodology paper](https://eartharxiv.org/repository/view/5111/)
+
+The former (TLTL) is described as the "base run", and appears to be their core implementation of system logic, with the latter (GL) being this core implementation plus the quoted "turnarounds". 
 
 #### Other
 
