@@ -79,6 +79,7 @@ Additionally the following were reviewed but not considered relevant to the stud
 * Well-established methodology with a lot of work done to account for obvserved non-trivial dynamics in fertility and mortality (c.f. demographic transitions)
 * [This set of slides](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/unpd_egm_202004_s1_sevcikova.pdf) covers some interesting issues around current forecasting methodology
 * deeper look at forecasting methodology 2020 here: /C:/Users/Jess/Downloads/02-ES-520-521_Buettner-EN.pdf
+* [a critique of WPP here](https://pages.stern.nyu.edu/~dbackus/BCH/demography/Keilman_JDR_98.pdf) but given date suspect this is no longer relevant (will check)
 
 
 ##### Revisions to probabilistic forecast
