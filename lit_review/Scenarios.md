@@ -1,5 +1,7 @@
 # Scenarios
 
+TMP_NOTE: this file to be completed during analysis of data (the comparison should be a combination of qualitative and quantitative), for now this just lays out the scenarios we consider.
+
 ## Overview
 
 This document reviews how scenarios fit into the analysis and how we view them.
@@ -26,12 +28,6 @@ These are the scenarios we consider:
 
 These compare to our categories as follows
 
-### Wittgenstein institute
-
-- A scenario
-- A N other scenario
-
-These compare to our categories as follows
 
 ### Lancet model
 
