@@ -51,7 +51,7 @@ Recent additions to the UNPD projection are probabilistic models for fertility a
 
 [This brief guide to uncertainty](https://www.un.org/en/development/desa/population/publications/pdf/popfacts/PopFacts_2019-6.pdf) provides an overview and some visualisation of the uncertainty in the projections, stating that uncertainty comes from three sources: fertility, mortality and migration (with the former being the biggest driver of uncertainty)[^1]
 
-[^1]: Strictly there is an uncertainty on the data, which doesn't seem to be pulled into the prediction, I haven't found this addressed anywhere so seems reasonable to take this as assumed negligible.
+[^1]: Strictly speaking there is an uncertainty on the data, which doesn't seem to be pulled into the prediction, I haven't found this addressed anywhere so seems reasonable to take this as assumed negligible.
 
 #### Scenarios
 
@@ -70,7 +70,7 @@ The UNPD projections model the following scenarios:
 
 The UNPD WPP projection fertility and mortality models depend on the assumption of a fertility and mortality transition (a shift from a higher level of birth and death rate to a lower - also known as [an epidemiological transition](https://en.wikipedia.org/wiki/Epidemiological_transition)). These transitions have been observed, studied and statistically fit to a particular pattern.
 
-UNPD models have account for these transitions using a model of their general structure. A more recent development was to refine curve fitting (parameter estimation)  in such a way that would also provide [the uncertainty mentioned above](#Uncertainty) ([Bayesian model described in this technical paper](https://arxiv.org/pdf/1405.4708.pdf)).
+UNPD projections account for these transitions using a model of their general structure. A more recent development was to refine curve fitting (parameter estimation)  in such a way that would also provide [the uncertainty mentioned above](#Uncertainty) ([Bayesian model described in this technical paper](https://arxiv.org/pdf/1405.4708.pdf)).
 
 #### Key criticisms
 
@@ -84,7 +84,7 @@ The other key criticism ([Lancet paper](https://www.thelancet.com/journals/lance
 
 The Wittgenstein centre [have papers here,](https://www.jstor.org/stable/2695213?read-now=1&oauth_data=eyJlbWFpbCI6Im5pYWxsZmVhbHR5QGdvb2dsZW1haWwuY29tIiwiaW5zdGl0dXRpb25JZHMiOltdfQ&seq=11#page_scan_tab_contents) [and here](https://www.jstor.org/stable/26349563?seq=3) which make predictions from 2005-2050 with a model which was produced around this period (publication date in 2010).
 
-This aside it doesn't seem to produce a regular projection which makes it somewhat ill-suited for our purposes. Because of this we consider it as an important landmark in population projections and an important contributor but it does not provide a candidate data source.
+This aside it doesn't seem to produce a regular projection which makes it somewhat ill-suited for our purposes -  mainly as the only available projection only goes out to 2050. Because of this we consider it as an important landmark in population projections and an important contributor but it does not provide a candidate data source.
 
 #### Place in demographic modelling
 
