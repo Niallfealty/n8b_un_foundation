@@ -86,7 +86,14 @@ The Wittgenstein centre [have papers here,](https://www.jstor.org/stable/2695213
 
 This aside it doesn't seem to produce a regular projection which makes it somewhat ill-suited for our purposes. Because of this we consider it as an important landmark in population projections and an important contributor but it does not provide a candidate data source.
 
+#### Place in demographic modelling
 
+The Wittgenstein projections form an important part of the context of demographic modelling for two key reasons
+
+1. This was an early attempt to implement a model which accounted for external factors/policy decisions (the key addition was to incorporate education as a factor into the CCMP approach used by UNPD WPP) (see papers cited in [Overview](#overview-1))
+2. The Wittgenstein Centre forecast is chosen for use in many climate models incorporating population-based factors (citation: [Lancet model paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930677-2/fulltext)) - though one criticism is that climate effects are not accounted for[^witt_crit].
+
+[^witt_crit]: Side note - I'm inclined to take this criticism with a pinch of salt given that using a fixed forecast accounting for climate effects in a climate model would mean the population projection would be dependent on a different forecast (a messy and subtle situation to resolve), so it seems that the only sensible way to do this would be to produce a population model with a variable climate impact - i.e. produce a forecasting package replete with data...a very different task!
 
 ### Global Burden of Disease study (aka: Lancet model)
 
@@ -108,9 +115,7 @@ The Lancet paper claims a few improvements over UNPD and Wittgenstein (listed wi
 
 #### Data
 
-Past UN data are used for migration model, other data are collected [here, on the Global Health Data eXchange](https://www.healthdata.org/data-tools-practices/data-sources).
-
-
+Past UN data are used for migration model, other data are collected [here, on the Global Health Data eXchange](https://www.healthdata.org/data-tools-practices/data-sources). Without digging terribly deep (there doesn't appear to be a complete list provided) there seems to be a considerable overlap with sources used in UNPD WPP.
 
 #### Uncertainty
 
