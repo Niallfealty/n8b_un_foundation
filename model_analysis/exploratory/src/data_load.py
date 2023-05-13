@@ -8,6 +8,8 @@ from os import listdir
 from os.path import isfile, isdir, join
 from re import compile as re_compile
 
+from pandas import read_csv, concat
+
 class DataLoader:
     """ Loader for loading data from multiple different sources
     """
@@ -34,6 +36,16 @@ class DataLoader:
         '''
         data_folder = self._find_data(self.data_folder_root)
         filenames = {".".join(filename.lower().split(".")[:-1]): join(data_folder, filename) for filename in listdir(data_folder)}
+        dfs = []
+        codebooks = []
+        for fname in filenames:
+            # ignore the code on end for now
+            forecast_name, scenario, _ = self._parse_naming_convention(fname)
+            if "codebook" in scenario:
+                codebooks.append(self._read_data(fpath, scenario, forecast_name))
+            else:
+                dfs.append(self._read_data(fpath, scenario, forecast_name))
+        self.gbd_data = concat(dfs)
     
     def _find_data(self, data_root):
         ''' Work down file path to find at least one csv
@@ -50,8 +62,8 @@ class DataLoader:
 
     def _parse_naming_convention(self, fname):
         fname_no_ext = fname.split(".")[0] # assume no other '.'s
-        forecast_name = FORECAST_NAME.findall(fname)[0]
-        end_code = END_CODE.findall(fname)[0]
+        forecast_name = self.FORECAST_NAME.findall(fname)[0]
+        end_code = self.END_CODE.findall(fname)[0][0]
         scenario = fname_no_ext[len(forecast_name)+1:-(len(end_code)+1)]
         return forecast_name, scenario, end_code
 
