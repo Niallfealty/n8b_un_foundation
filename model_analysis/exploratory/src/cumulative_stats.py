@@ -12,4 +12,5 @@ def find_births_threshold(df,
     df\
         .sort_values([scenario_col, time_col], ascending=True)
         .groupby(scenario_col)\
-        .rolling(max_time, center=False, on=time_col)
+        .cumsum()
+        #.rolling(max_time, center=False, on=time_col)
