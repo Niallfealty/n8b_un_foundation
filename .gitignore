@@ -6,6 +6,10 @@ __pycache__/
 # vim .swp files
 *.swp
 
+# TODOs and notepads for dropping python code in from interpreter (don't name anything else this!)
+TODO.txt
+notepad.py
+
 # C extensions
 *.so
 
