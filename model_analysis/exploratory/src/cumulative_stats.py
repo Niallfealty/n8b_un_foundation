@@ -14,3 +14,9 @@ def find_births_threshold(df,
         .groupby(scenario_col)\
         .cumsum()
         #.rolling(max_time, center=False, on=time_col)
+
+cumulative_births = un_all_future.sort_values(["Variant","Time"], ascending=True).set_index(["Variant","Time"]).groupby("Variant").BirthsSingle.cumsum().reset_index()
+
+''' plotting
+sns.lineplot(df_cum_b, x="Time", y="BirthsSingle", hue="Variant");plt.xlabel("Year"); plt.ylabel("Births");plt.title("Cumulative births from 2023");plt.hlines(y=8_000_000_000,xmin=2022,xmax=2100,color="r",linestyle="dashdot");plt.show()
+'''
