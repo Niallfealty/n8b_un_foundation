@@ -52,4 +52,25 @@ Name: val, dtype: float64
 
 we'll stick with this for now (though should probably be noted that the lower two models have a non-trivial ts structure, could be worth looking more lags, arma process...)
 
-UNPD forecasts added, all variants (quite a lot of data on plots)
+UNPD forecasts added, all variants (quite a lot of data on plots) 
+
+This is what we get for the total births post 2022
+
+Constant fertility                    1.953372e+10
+Constant mortality                    9.717888e+09
+High                                  1.471278e+10
+Instant replacement                   1.009563e+10
+Instant replacement zero migration    1.007334e+10
+Low                                   6.512962e+09
+Lower 80 PI                           8.854529e+09
+Lower 95 PI                           8.309479e+09
+Median PI                             1.003345e+10
+Medium                                1.003345e+10
+Momentum                              9.818377e+09
+No change                             1.836689e+10
+Upper 80 PI                           1.151160e+10
+Upper 95 PI                           1.244501e+10
+Zero migration                        1.004192e+10
+Name: BirthsSingle, dtype: float64
+
+So only actually need to extrapolate for the Low scenario
