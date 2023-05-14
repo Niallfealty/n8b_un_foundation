@@ -51,3 +51,5 @@ Name: val, dtype: float64
 ```
 
 we'll stick with this for now (though should probably be noted that the lower two models have a non-trivial ts structure, could be worth looking more lags, arma process...)
+
+UNPD forecasts added, all variants (quite a lot of data on plots)
