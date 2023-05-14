@@ -56,6 +56,7 @@ UNPD forecasts added, all variants (quite a lot of data on plots)
 
 This is what we get for the total births post 2022
 
+```
 Constant fertility                    1.953372e+10
 Constant mortality                    9.717888e+09
 High                                  1.471278e+10
@@ -72,10 +73,12 @@ Upper 80 PI                           1.151160e+10
 Upper 95 PI                           1.244501e+10
 Zero migration                        1.004192e+10
 Name: BirthsSingle, dtype: float64
+```
 
 So only actually need to extrapolate for the Low scenario.
 
 That said, extrapolating out 100 years
+```
 Variant
 Constant fertility                    3.263214e+11
 Constant mortality                    8.171322e+09
@@ -93,5 +96,6 @@ Upper 80 PI                           2.639345e+10
 Upper 95 PI                           3.198641e+10
 Zero migration                        1.078206e+10
 Name: BirthsSingle, dtype: float64
+```
 
 if we extrapolate out past about 2140 the number of live biths goes negative so we can't extrapolate any more...
