@@ -37,3 +37,15 @@ Slower Met Need and Education     1.426350e+10
 ```
 
 so we don't quite reach the next 8Bn in these scenarios. Taking a quick look at pacf to see if we could maybe just throw an arima at it with a sensible order to extrapolate (would be sensible to think a bit about this as an arma process - but probably fine as a quick and dirty extrapolation - as long as we're not going out too far)
+
+with an AR(1) extrapolation out to 2120 we get:
+
+```
+scenario_name
+Faster Met Need and Education     8.991398e+09
+Fastest Met Need and Education    8.697718e+09
+Reference                         1.051867e+10
+SDG Met Need and Education        8.208836e+09
+Slower Met Need and Education     1.920251e+10
+Name: val, dtype: float64
+```
