@@ -73,4 +73,25 @@ Upper 95 PI                           1.244501e+10
 Zero migration                        1.004192e+10
 Name: BirthsSingle, dtype: float64
 
-So only actually need to extrapolate for the Low scenario
+So only actually need to extrapolate for the Low scenario.
+
+That said, extrapolating out 100 years
+Variant
+Constant fertility                    3.263214e+11
+Constant mortality                    8.171322e+09
+High                                  3.842643e+10
+Instant replacement                   2.310487e+10
+Instant replacement zero migration    2.304269e+10
+Low                                   7.356312e+09
+Lower 80 PI                           8.524059e+09
+Lower 95 PI                           8.846125e+09
+Median PI                             1.093259e+10
+Medium                                1.093259e+10
+Momentum                              2.040578e+10
+No change                             2.207480e+11
+Upper 80 PI                           2.639345e+10
+Upper 95 PI                           3.198641e+10
+Zero migration                        1.078206e+10
+Name: BirthsSingle, dtype: float64
+
+if we extrapolate out past about 2140 the number of live biths goes negative so we can't extrapolate any more...
