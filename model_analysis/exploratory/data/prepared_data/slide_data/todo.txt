@@ -1,0 +1,10 @@
+TODO:
+
+  - Extrapolate births incl. E4A to 8bn using flat extrapolation
+  - Check birth/migration/death rates (b-d ~= m?) over pre 2020 period to answer Dave's questions on E4A data 
+  - Add in Extrapolated n8b years (incl. E4A)
+  - Peak population years this century (and pop)
+  - [Check all data present in unpd_large] UN medium scenario get data for country, region and economic group, (include world)
+  - num of births and as % of total (clarify do we want this to be % of total births that year, of 8bn, or of total contribution to n8b - former seems most sensible reading)
+  - Check IHME/GBD projections are correct
+  - Interpolation to work out N8B month in medium/historical scenario
