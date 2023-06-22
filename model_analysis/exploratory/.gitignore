@@ -1,2 +1,6 @@
 #data/*
 data_backup/*
+
+# some files to ignore due to size (these can be downloaded from UNPD data portal: https://population.un.org/wpp/Download/)
+WPP2022_Demographic_Indicators_OtherVariants.csv
+WPP2022_GEN_F01_DEMOGRAPHIC_INDICATORS_REV1.xlsx
