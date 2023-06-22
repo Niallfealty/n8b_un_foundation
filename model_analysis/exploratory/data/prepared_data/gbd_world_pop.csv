@@ -1,0 +1,167 @@
+,location_id,location_name,sex_id,sex,age_group_id,age_group_name,year_id,measure_id,measure_name,metric_id,metric_name,scenario,scenario_name,val,upper,lower
+83,1,Global,3,Both,22,All Ages,2018,44,Population,1,Number,0,Reference,7723391011.0,7728631802.0,7718906929.0
+84,1,Global,3,Both,22,All Ages,2019,44,Population,1,Number,0,Reference,7805529125.0,7815100376.0,7797069378.0
+85,1,Global,3,Both,22,All Ages,2020,44,Population,1,Number,0,Reference,7886693580.0,7902986277.0,7872579102.0
+86,1,Global,3,Both,22,All Ages,2021,44,Population,1,Number,0,Reference,7966665211.0,7990710910.0,7945986856.0
+87,1,Global,3,Both,22,All Ages,2022,44,Population,1,Number,0,Reference,8045375451.0,8078294868.0,8016628311.0
+88,1,Global,3,Both,22,All Ages,2023,44,Population,1,Number,0,Reference,8122797867.0,8165183572.0,8085139831.0
+89,1,Global,3,Both,22,All Ages,2024,44,Population,1,Number,0,Reference,8198756532.0,8251717014.0,8151451863.0
+90,1,Global,3,Both,22,All Ages,2025,44,Population,1,Number,0,Reference,8273083818.0,8337328615.0,8215966885.0
+91,1,Global,3,Both,22,All Ages,2026,44,Population,1,Number,0,Reference,8345689982.0,8421283231.0,8278039560.0
+92,1,Global,3,Both,22,All Ages,2027,44,Population,1,Number,0,Reference,8416576130.0,8505367946.0,8336650924.0
+93,1,Global,3,Both,22,All Ages,2028,44,Population,1,Number,0,Reference,8485795919.0,8587935585.0,8394348155.0
+94,1,Global,3,Both,22,All Ages,2029,44,Population,1,Number,0,Reference,8553312856.0,8670245625.0,8449576919.0
+95,1,Global,3,Both,22,All Ages,2030,44,Population,1,Number,0,Reference,8619058953.0,8752105466.0,8502515663.0
+96,1,Global,3,Both,22,All Ages,2031,44,Population,1,Number,0,Reference,8683042395.0,8833489862.0,8552201105.0
+97,1,Global,3,Both,22,All Ages,2032,44,Population,1,Number,0,Reference,8745257656.0,8915072901.0,8600845704.0
+98,1,Global,3,Both,22,All Ages,2033,44,Population,1,Number,0,Reference,8805680119.0,8994915998.0,8646291572.0
+99,1,Global,3,Both,22,All Ages,2034,44,Population,1,Number,0,Reference,8864337481.0,9073257870.0,8687246289.0
+100,1,Global,3,Both,22,All Ages,2035,44,Population,1,Number,0,Reference,8921246891.0,9149056380.0,8726979693.0
+101,1,Global,3,Both,22,All Ages,2036,44,Population,1,Number,0,Reference,8976395584.0,9224127210.0,8765154127.0
+102,1,Global,3,Both,22,All Ages,2037,44,Population,1,Number,0,Reference,9029771873.0,9295937577.0,8802391538.0
+103,1,Global,3,Both,22,All Ages,2038,44,Population,1,Number,0,Reference,9081354412.0,9371512001.0,8835442846.0
+104,1,Global,3,Both,22,All Ages,2039,44,Population,1,Number,0,Reference,9131121464.0,9445984446.0,8866318500.0
+105,1,Global,3,Both,22,All Ages,2040,44,Population,1,Number,0,Reference,9179083525.0,9518186348.0,8894162238.0
+106,1,Global,3,Both,22,All Ages,2041,44,Population,1,Number,0,Reference,9225208209.0,9589775610.0,8919367311.0
+107,1,Global,3,Both,22,All Ages,2042,44,Population,1,Number,0,Reference,9269477788.0,9659660265.0,8941411613.0
+108,1,Global,3,Both,22,All Ages,2043,44,Population,1,Number,0,Reference,9311832053.0,9731087854.0,8962631830.0
+109,1,Global,3,Both,22,All Ages,2044,44,Population,1,Number,0,Reference,9352201944.0,9796632468.0,8981911132.0
+110,1,Global,3,Both,22,All Ages,2045,44,Population,1,Number,0,Reference,9390558602.0,9862142098.0,8998574131.0
+111,1,Global,3,Both,22,All Ages,2046,44,Population,1,Number,0,Reference,9426867911.0,9924426370.0,9013160987.0
+112,1,Global,3,Both,22,All Ages,2047,44,Population,1,Number,0,Reference,9461124288.0,9983604619.0,9026389208.0
+113,1,Global,3,Both,22,All Ages,2048,44,Population,1,Number,0,Reference,9493330078.0,10044733087.0,9035051076.0
+114,1,Global,3,Both,22,All Ages,2049,44,Population,1,Number,0,Reference,9523465887.0,10105557633.0,9042127364.0
+115,1,Global,3,Both,22,All Ages,2050,44,Population,1,Number,0,Reference,9551506077.0,10163021422.0,9046035812.0
+116,1,Global,3,Both,22,All Ages,2051,44,Population,1,Number,0,Reference,9577443894.0,10221186221.0,9049256941.0
+117,1,Global,3,Both,22,All Ages,2052,44,Population,1,Number,0,Reference,9601291404.0,10275168714.0,9049371483.0
+118,1,Global,3,Both,22,All Ages,2053,44,Population,1,Number,0,Reference,9623075287.0,10332122271.0,9046643243.0
+119,1,Global,3,Both,22,All Ages,2054,44,Population,1,Number,0,Reference,9642808470.0,10387379559.0,9039119511.0
+120,1,Global,3,Both,22,All Ages,2055,44,Population,1,Number,0,Reference,9660498856.0,10441213219.0,9029731179.0
+121,1,Global,3,Both,22,All Ages,2056,44,Population,1,Number,0,Reference,9676158366.0,10496966871.0,9018456239.0
+122,1,Global,3,Both,22,All Ages,2057,44,Population,1,Number,0,Reference,9689826469.0,10548059804.0,9003696211.0
+123,1,Global,3,Both,22,All Ages,2058,44,Population,1,Number,0,Reference,9701549880.0,10598087938.0,8986036739.0
+124,1,Global,3,Both,22,All Ages,2059,44,Population,1,Number,0,Reference,9711366041.0,10646220163.0,8967475999.0
+125,1,Global,3,Both,22,All Ages,2060,44,Population,1,Number,0,Reference,9719318272.0,10695199140.0,8946612021.0
+126,1,Global,3,Both,22,All Ages,2061,44,Population,1,Number,0,Reference,9725419042.0,10744483530.0,8924110358.0
+127,1,Global,3,Both,22,All Ages,2062,44,Population,1,Number,0,Reference,9729702777.0,10790585057.0,8899630053.0
+128,1,Global,3,Both,22,All Ages,2063,44,Population,1,Number,0,Reference,9732206794.0,10833681175.0,8872971744.0
+129,1,Global,3,Both,22,All Ages,2064,44,Population,1,Number,0,Reference,9732922689.0,10878535243.0,8843823034.0
+130,1,Global,3,Both,22,All Ages,2065,44,Population,1,Number,0,Reference,9731871402.0,10923385283.0,8810642480.0
+131,1,Global,3,Both,22,All Ages,2066,44,Population,1,Number,0,Reference,9729064465.0,10964787612.0,8775317540.0
+132,1,Global,3,Both,22,All Ages,2067,44,Population,1,Number,0,Reference,9724513081.0,11004992268.0,8739316055.0
+133,1,Global,3,Both,22,All Ages,2068,44,Population,1,Number,0,Reference,9718249401.0,11044370355.0,8701490769.0
+134,1,Global,3,Both,22,All Ages,2069,44,Population,1,Number,0,Reference,9710282554.0,11081009911.0,8662705341.0
+135,1,Global,3,Both,22,All Ages,2070,44,Population,1,Number,0,Reference,9700610324.0,11116623360.0,8623072892.0
+136,1,Global,3,Both,22,All Ages,2071,44,Population,1,Number,0,Reference,9689251038.0,11149292834.0,8582181090.0
+137,1,Global,3,Both,22,All Ages,2072,44,Population,1,Number,0,Reference,9676243561.0,11180376099.0,8540970297.0
+138,1,Global,3,Both,22,All Ages,2073,44,Population,1,Number,0,Reference,9661590658.0,11211879328.0,8499284378.0
+139,1,Global,3,Both,22,All Ages,2074,44,Population,1,Number,0,Reference,9645329918.0,11242680366.0,8454860821.0
+140,1,Global,3,Both,22,All Ages,2075,44,Population,1,Number,0,Reference,9627498797.0,11272711000.0,8407931747.0
+141,1,Global,3,Both,22,All Ages,2076,44,Population,1,Number,0,Reference,9608104964.0,11302414047.0,8359581562.0
+142,1,Global,3,Both,22,All Ages,2077,44,Population,1,Number,0,Reference,9587197508.0,11331692990.0,8309840494.0
+143,1,Global,3,Both,22,All Ages,2078,44,Population,1,Number,0,Reference,9564828118.0,11359731308.0,8261018774.0
+144,1,Global,3,Both,22,All Ages,2079,44,Population,1,Number,0,Reference,9541038722.0,11390175556.0,8210171708.0
+145,1,Global,3,Both,22,All Ages,2080,44,Population,1,Number,0,Reference,9515888869.0,11422114610.0,8157214135.0
+146,1,Global,3,Both,22,All Ages,2081,44,Population,1,Number,0,Reference,9489415825.0,11442488960.0,8102616480.0
+147,1,Global,3,Both,22,All Ages,2082,44,Population,1,Number,0,Reference,9461693469.0,11461579337.0,8045159973.0
+148,1,Global,3,Both,22,All Ages,2083,44,Population,1,Number,0,Reference,9432803085.0,11478010916.0,7986005252.0
+149,1,Global,3,Both,22,All Ages,2084,44,Population,1,Number,0,Reference,9402775341.0,11497285868.0,7923560396.0
+150,1,Global,3,Both,22,All Ages,2085,44,Population,1,Number,0,Reference,9371660258.0,11517606819.0,7858713901.0
+151,1,Global,3,Both,22,All Ages,2086,44,Population,1,Number,0,Reference,9339478398.0,11537366560.0,7795474854.0
+152,1,Global,3,Both,22,All Ages,2087,44,Population,1,Number,0,Reference,9306261187.0,11557853966.0,7732166702.0
+153,1,Global,3,Both,22,All Ages,2088,44,Population,1,Number,0,Reference,9272043294.0,11578322900.0,7666901685.0
+154,1,Global,3,Both,22,All Ages,2089,44,Population,1,Number,0,Reference,9236831993.0,11599533706.0,7599662183.0
+155,1,Global,3,Both,22,All Ages,2090,44,Population,1,Number,0,Reference,9200632391.0,11622870087.0,7529201918.0
+156,1,Global,3,Both,22,All Ages,2091,44,Population,1,Number,0,Reference,9163429244.0,11647143217.0,7460501474.0
+157,1,Global,3,Both,22,All Ages,2092,44,Population,1,Number,0,Reference,9125227987.0,11670675473.0,7390875735.0
+158,1,Global,3,Both,22,All Ages,2093,44,Population,1,Number,0,Reference,9086036337.0,11692683291.0,7318155871.0
+159,1,Global,3,Both,22,All Ages,2094,44,Population,1,Number,0,Reference,9045872350.0,11718764452.0,7246354733.0
+160,1,Global,3,Both,22,All Ages,2095,44,Population,1,Number,0,Reference,9004753844.0,11744614745.0,7174476674.0
+161,1,Global,3,Both,22,All Ages,2096,44,Population,1,Number,0,Reference,8962700979.0,11769301901.0,7103114097.0
+162,1,Global,3,Both,22,All Ages,2097,44,Population,1,Number,0,Reference,8919730768.0,11791933266.0,7033089096.0
+163,1,Global,3,Both,22,All Ages,2098,44,Population,1,Number,0,Reference,8875855926.0,11809150300.0,6963228147.0
+164,1,Global,3,Both,22,All Ages,2099,44,Population,1,Number,0,Reference,8831098444.0,11817940121.0,6893548959.0
+165,1,Global,3,Both,22,All Ages,2100,44,Population,1,Number,0,Reference,8785553666.0,11829482052.0,6825314681.0
+332,1,Global,3,Both,22,All Ages,2018,44,Population,1,Number,3,SDG Met Need and Education,7750391884.0,7755601093.0,7745755712.0
+333,1,Global,3,Both,22,All Ages,2019,44,Population,1,Number,3,SDG Met Need and Education,7830524235.0,7840046439.0,7821300080.0
+334,1,Global,3,Both,22,All Ages,2020,44,Population,1,Number,3,SDG Met Need and Education,7908941758.0,7925076409.0,7893379399.0
+335,1,Global,3,Both,22,All Ages,2021,44,Population,1,Number,3,SDG Met Need and Education,7985311337.0,8008590429.0,7962382912.0
+336,1,Global,3,Both,22,All Ages,2022,44,Population,1,Number,3,SDG Met Need and Education,8059424755.0,8091833612.0,8027375789.0
+337,1,Global,3,Both,22,All Ages,2023,44,Population,1,Number,3,SDG Met Need and Education,8130667097.0,8172861274.0,8089342232.0
+338,1,Global,3,Both,22,All Ages,2024,44,Population,1,Number,3,SDG Met Need and Education,8198245647.0,8250205453.0,8146446815.0
+339,1,Global,3,Both,22,All Ages,2025,44,Population,1,Number,3,SDG Met Need and Education,8261794183.0,8323840453.0,8198828088.0
+340,1,Global,3,Both,22,All Ages,2026,44,Population,1,Number,3,SDG Met Need and Education,8321084682.0,8394836217.0,8246468859.0
+341,1,Global,3,Both,22,All Ages,2027,44,Population,1,Number,3,SDG Met Need and Education,8376041789.0,8461345491.0,8289465356.0
+342,1,Global,3,Both,22,All Ages,2028,44,Population,1,Number,3,SDG Met Need and Education,8426808117.0,8524879290.0,8327884572.0
+343,1,Global,3,Both,22,All Ages,2029,44,Population,1,Number,3,SDG Met Need and Education,8473469071.0,8586461367.0,8361919118.0
+344,1,Global,3,Both,22,All Ages,2030,44,Population,1,Number,3,SDG Met Need and Education,8515986283.0,8644277333.0,8391592623.0
+345,1,Global,3,Both,22,All Ages,2031,44,Population,1,Number,3,SDG Met Need and Education,8554426099.0,8698762125.0,8417694536.0
+346,1,Global,3,Both,22,All Ages,2032,44,Population,1,Number,3,SDG Met Need and Education,8588870220.0,8749027517.0,8439041764.0
+347,1,Global,3,Both,22,All Ages,2033,44,Population,1,Number,3,SDG Met Need and Education,8619674856.0,8797128952.0,8456696288.0
+348,1,Global,3,Both,22,All Ages,2034,44,Population,1,Number,3,SDG Met Need and Education,8647252898.0,8842611177.0,8471066031.0
+349,1,Global,3,Both,22,All Ages,2035,44,Population,1,Number,3,SDG Met Need and Education,8671757926.0,8884439538.0,8482825405.0
+350,1,Global,3,Both,22,All Ages,2036,44,Population,1,Number,3,SDG Met Need and Education,8693286139.0,8923429058.0,8490606366.0
+351,1,Global,3,Both,22,All Ages,2037,44,Population,1,Number,3,SDG Met Need and Education,8711903364.0,8968568530.0,8493981188.0
+352,1,Global,3,Both,22,All Ages,2038,44,Population,1,Number,3,SDG Met Need and Education,8728025803.0,9004276896.0,8493997452.0
+353,1,Global,3,Both,22,All Ages,2039,44,Population,1,Number,3,SDG Met Need and Education,8742058682.0,9037718555.0,8490757902.0
+354,1,Global,3,Both,22,All Ages,2040,44,Population,1,Number,3,SDG Met Need and Education,8754103574.0,9071126550.0,8487007268.0
+355,1,Global,3,Both,22,All Ages,2041,44,Population,1,Number,3,SDG Met Need and Education,8764170038.0,9102060561.0,8480970433.0
+356,1,Global,3,Both,22,All Ages,2042,44,Population,1,Number,3,SDG Met Need and Education,8772238466.0,9131639555.0,8471860880.0
+357,1,Global,3,Both,22,All Ages,2043,44,Population,1,Number,3,SDG Met Need and Education,8778503452.0,9160387729.0,8460493100.0
+358,1,Global,3,Both,22,All Ages,2044,44,Population,1,Number,3,SDG Met Need and Education,8783118716.0,9191345528.0,8448188591.0
+359,1,Global,3,Both,22,All Ages,2045,44,Population,1,Number,3,SDG Met Need and Education,8786055979.0,9220900037.0,8433614051.0
+360,1,Global,3,Both,22,All Ages,2046,44,Population,1,Number,3,SDG Met Need and Education,8787249987.0,9250381105.0,8417468548.0
+361,1,Global,3,Both,22,All Ages,2047,44,Population,1,Number,3,SDG Met Need and Education,8786626823.0,9274215584.0,8398591809.0
+362,1,Global,3,Both,22,All Ages,2048,44,Population,1,Number,3,SDG Met Need and Education,8784173438.0,9299418937.0,8378201737.0
+363,1,Global,3,Both,22,All Ages,2049,44,Population,1,Number,3,SDG Met Need and Education,8779884616.0,9324622139.0,8356756197.0
+364,1,Global,3,Both,22,All Ages,2050,44,Population,1,Number,3,SDG Met Need and Education,8773657324.0,9348021859.0,8332452103.0
+365,1,Global,3,Both,22,All Ages,2051,44,Population,1,Number,3,SDG Met Need and Education,8765386829.0,9370140276.0,8304284579.0
+366,1,Global,3,Both,22,All Ages,2052,44,Population,1,Number,3,SDG Met Need and Education,8754979005.0,9387240427.0,8274586829.0
+367,1,Global,3,Both,22,All Ages,2053,44,Population,1,Number,3,SDG Met Need and Education,8742349298.0,9403291370.0,8240459283.0
+368,1,Global,3,Both,22,All Ages,2054,44,Population,1,Number,3,SDG Met Need and Education,8727469169.0,9417626289.0,8204463252.0
+369,1,Global,3,Both,22,All Ages,2055,44,Population,1,Number,3,SDG Met Need and Education,8710291499.0,9428737399.0,8166187244.0
+370,1,Global,3,Both,22,All Ages,2056,44,Population,1,Number,3,SDG Met Need and Education,8690769189.0,9440120609.0,8125799024.0
+371,1,Global,3,Both,22,All Ages,2057,44,Population,1,Number,3,SDG Met Need and Education,8668883321.0,9451961792.0,8083197235.0
+372,1,Global,3,Both,22,All Ages,2058,44,Population,1,Number,3,SDG Met Need and Education,8644630020.0,9461024561.0,8035956565.0
+373,1,Global,3,Both,22,All Ages,2059,44,Population,1,Number,3,SDG Met Need and Education,8618059397.0,9466858971.0,7987723062.0
+374,1,Global,3,Both,22,All Ages,2060,44,Population,1,Number,3,SDG Met Need and Education,8589237905.0,9470469402.0,7937164896.0
+375,1,Global,3,Both,22,All Ages,2061,44,Population,1,Number,3,SDG Met Need and Education,8558211864.0,9472518639.0,7884409778.0
+376,1,Global,3,Both,22,All Ages,2062,44,Population,1,Number,3,SDG Met Need and Education,8525043148.0,9471779297.0,7829131321.0
+377,1,Global,3,Both,22,All Ages,2063,44,Population,1,Number,3,SDG Met Need and Education,8489806137.0,9470888518.0,7772138081.0
+378,1,Global,3,Both,22,All Ages,2064,44,Population,1,Number,3,SDG Met Need and Education,8452565163.0,9469835827.0,7712992758.0
+379,1,Global,3,Both,22,All Ages,2065,44,Population,1,Number,3,SDG Met Need and Education,8413401399.0,9466520439.0,7651093894.0
+380,1,Global,3,Both,22,All Ages,2066,44,Population,1,Number,3,SDG Met Need and Education,8372393187.0,9461572275.0,7587640231.0
+381,1,Global,3,Both,22,All Ages,2067,44,Population,1,Number,3,SDG Met Need and Education,8329626546.0,9455111474.0,7523341071.0
+382,1,Global,3,Both,22,All Ages,2068,44,Population,1,Number,3,SDG Met Need and Education,8285199798.0,9447833823.0,7458164083.0
+383,1,Global,3,Both,22,All Ages,2069,44,Population,1,Number,3,SDG Met Need and Education,8239182672.0,9439755613.0,7391245877.0
+384,1,Global,3,Both,22,All Ages,2070,44,Population,1,Number,3,SDG Met Need and Education,8191636391.0,9426429862.0,7322677564.0
+385,1,Global,3,Both,22,All Ages,2071,44,Population,1,Number,3,SDG Met Need and Education,8142639881.0,9413682783.0,7252742240.0
+386,1,Global,3,Both,22,All Ages,2072,44,Population,1,Number,3,SDG Met Need and Education,8092279120.0,9399751505.0,7182368354.0
+387,1,Global,3,Both,22,All Ages,2073,44,Population,1,Number,3,SDG Met Need and Education,8040607172.0,9383930012.0,7109328124.0
+388,1,Global,3,Both,22,All Ages,2074,44,Population,1,Number,3,SDG Met Need and Education,7987684932.0,9369863453.0,7035368759.0
+389,1,Global,3,Both,22,All Ages,2075,44,Population,1,Number,3,SDG Met Need and Education,7933557668.0,9354001418.0,6961300528.0
+390,1,Global,3,Both,22,All Ages,2076,44,Population,1,Number,3,SDG Met Need and Education,7878241538.0,9336362641.0,6886654091.0
+391,1,Global,3,Both,22,All Ages,2077,44,Population,1,Number,3,SDG Met Need and Education,7821782439.0,9317622472.0,6811507900.0
+392,1,Global,3,Both,22,All Ages,2078,44,Population,1,Number,3,SDG Met Need and Education,7764228512.0,9299365523.0,6735136128.0
+393,1,Global,3,Both,22,All Ages,2079,44,Population,1,Number,3,SDG Met Need and Education,7705608501.0,9281107677.0,6656843181.0
+394,1,Global,3,Both,22,All Ages,2080,44,Population,1,Number,3,SDG Met Need and Education,7645956250.0,9262543226.0,6576344839.0
+395,1,Global,3,Both,22,All Ages,2081,44,Population,1,Number,3,SDG Met Need and Education,7585292473.0,9243077131.0,6494673289.0
+396,1,Global,3,Both,22,All Ages,2082,44,Population,1,Number,3,SDG Met Need and Education,7523675060.0,9219598581.0,6412427238.0
+397,1,Global,3,Both,22,All Ages,2083,44,Population,1,Number,3,SDG Met Need and Education,7461170794.0,9193438708.0,6329352920.0
+398,1,Global,3,Both,22,All Ages,2084,44,Population,1,Number,3,SDG Met Need and Education,7397801622.0,9168216266.0,6246986451.0
+399,1,Global,3,Both,22,All Ages,2085,44,Population,1,Number,3,SDG Met Need and Education,7333604760.0,9142665209.0,6163364581.0
+400,1,Global,3,Both,22,All Ages,2086,44,Population,1,Number,3,SDG Met Need and Education,7268587690.0,9116765228.0,6078696024.0
+401,1,Global,3,Both,22,All Ages,2087,44,Population,1,Number,3,SDG Met Need and Education,7202768834.0,9090705910.0,5992085238.0
+402,1,Global,3,Both,22,All Ages,2088,44,Population,1,Number,3,SDG Met Need and Education,7136191711.0,9065464817.0,5902685119.0
+403,1,Global,3,Both,22,All Ages,2089,44,Population,1,Number,3,SDG Met Need and Education,7068877175.0,9040465737.0,5811690619.0
+404,1,Global,3,Both,22,All Ages,2090,44,Population,1,Number,3,SDG Met Need and Education,7000844969.0,9014636725.0,5722444083.0
+405,1,Global,3,Both,22,All Ages,2091,44,Population,1,Number,3,SDG Met Need and Education,6932106034.0,8988054203.0,5633650602.0
+406,1,Global,3,Both,22,All Ages,2092,44,Population,1,Number,3,SDG Met Need and Education,6862690297.0,8963903220.0,5543141626.0
+407,1,Global,3,Both,22,All Ages,2093,44,Population,1,Number,3,SDG Met Need and Education,6792643252.0,8936905627.0,5450942376.0
+408,1,Global,3,Both,22,All Ages,2094,44,Population,1,Number,3,SDG Met Need and Education,6722021292.0,8908733239.0,5358821830.0
+409,1,Global,3,Both,22,All Ages,2095,44,Population,1,Number,3,SDG Met Need and Education,6650873052.0,8881442141.0,5266876459.0
+410,1,Global,3,Both,22,All Ages,2096,44,Population,1,Number,3,SDG Met Need and Education,6579249126.0,8853928566.0,5175125359.0
+411,1,Global,3,Both,22,All Ages,2097,44,Population,1,Number,3,SDG Met Need and Education,6507213070.0,8825772920.0,5083361360.0
+412,1,Global,3,Both,22,All Ages,2098,44,Population,1,Number,3,SDG Met Need and Education,6434834891.0,8797173611.0,4993771293.0
+413,1,Global,3,Both,22,All Ages,2099,44,Population,1,Number,3,SDG Met Need and Education,6362192615.0,8764880719.0,4906308796.0
+414,1,Global,3,Both,22,All Ages,2100,44,Population,1,Number,3,SDG Met Need and Education,6289424165.0,8733399083.0,4821116008.0

@@ -1,0 +1,167 @@
+,location_id,location_name,year_id,measure_name,metric_id,metric_name,scenario,scenario_name,val,upper,lower
+151,1,Global,2018,Live Births,1,Number,0.0,Reference,138640277.7,149343196.6,128947106.7
+152,1,Global,2019,Live Births,1,Number,0.0,Reference,138558439.3,150221180.5,128403704.1
+153,1,Global,2020,Live Births,1,Number,0.0,Reference,138242501.0,152088375.8,126710180.9
+154,1,Global,2021,Live Births,1,Number,0.0,Reference,137786023.4,153526034.6,124647507.3
+155,1,Global,2022,Live Births,1,Number,0.0,Reference,137346509.9,154729932.0,123055096.7
+156,1,Global,2023,Live Births,1,Number,0.0,Reference,136839735.4,154440225.0,122061244.7
+157,1,Global,2024,Live Births,1,Number,0.0,Reference,136127921.7,152198158.3,122634594.9
+158,1,Global,2025,Live Births,1,Number,0.0,Reference,135323948.4,150368271.8,122598820.9
+159,1,Global,2026,Live Births,1,Number,0.0,Reference,134501084.8,150226968.8,121553967.1
+160,1,Global,2027,Live Births,1,Number,0.0,Reference,133761428.7,150399902.3,120442336.4
+161,1,Global,2028,Live Births,1,Number,0.0,Reference,133084045.0,149136019.5,119774475.6
+162,1,Global,2029,Live Births,1,Number,0.0,Reference,132373828.8,147255862.4,120146234.8
+163,1,Global,2030,Live Births,1,Number,0.0,Reference,131656259.6,145670579.5,120070273.1
+164,1,Global,2031,Live Births,1,Number,0.0,Reference,130940730.6,144990518.6,119376168.6
+165,1,Global,2032,Live Births,1,Number,0.0,Reference,130270634.8,145040022.6,118599589.7
+166,1,Global,2033,Live Births,1,Number,0.0,Reference,129650911.7,143937070.1,118212578.6
+167,1,Global,2034,Live Births,1,Number,0.0,Reference,129059801.4,142557172.2,118257522.2
+168,1,Global,2035,Live Births,1,Number,0.0,Reference,128485685.3,141228741.9,118120691.0
+169,1,Global,2036,Live Births,1,Number,0.0,Reference,127908774.8,140423233.3,117840137.9
+170,1,Global,2037,Live Births,1,Number,0.0,Reference,127345061.4,139978634.6,117336581.1
+171,1,Global,2038,Live Births,1,Number,0.0,Reference,126728225.5,138867385.0,116870556.5
+172,1,Global,2039,Live Births,1,Number,0.0,Reference,126122233.2,138244088.5,116450552.3
+173,1,Global,2040,Live Births,1,Number,0.0,Reference,125520013.1,137585292.1,115877051.7
+174,1,Global,2041,Live Births,1,Number,0.0,Reference,124907769.2,137036908.5,115349588.7
+175,1,Global,2042,Live Births,1,Number,0.0,Reference,124273060.1,136463341.4,114605233.5
+176,1,Global,2043,Live Births,1,Number,0.0,Reference,123554264.6,136026388.4,113740764.4
+177,1,Global,2044,Live Births,1,Number,0.0,Reference,122791045.5,135319946.4,112841320.2
+178,1,Global,2045,Live Births,1,Number,0.0,Reference,121992162.5,134588432.0,112029793.3
+179,1,Global,2046,Live Births,1,Number,0.0,Reference,121165181.8,134068286.0,111005598.2
+180,1,Global,2047,Live Births,1,Number,0.0,Reference,120307283.4,133312032.3,109848507.3
+181,1,Global,2048,Live Births,1,Number,0.0,Reference,119465046.2,132731553.5,108843132.2
+182,1,Global,2049,Live Births,1,Number,0.0,Reference,118591423.8,132154679.2,107835458.3
+183,1,Global,2050,Live Births,1,Number,0.0,Reference,117695552.0,131289842.8,106775064.7
+184,1,Global,2051,Live Births,1,Number,0.0,Reference,116796088.5,130804045.3,105716685.2
+185,1,Global,2052,Live Births,1,Number,0.0,Reference,115886809.5,129828036.6,104604644.7
+186,1,Global,2053,Live Births,1,Number,0.0,Reference,114995829.6,128965411.8,103492276.3
+187,1,Global,2054,Live Births,1,Number,0.0,Reference,114087306.7,128460248.7,102403731.9
+188,1,Global,2055,Live Births,1,Number,0.0,Reference,113170395.3,128079570.6,101423643.6
+189,1,Global,2056,Live Births,1,Number,0.0,Reference,112261396.6,127498415.9,100388420.3
+190,1,Global,2057,Live Births,1,Number,0.0,Reference,111357436.7,126940614.0,99336513.51
+191,1,Global,2058,Live Births,1,Number,0.0,Reference,110473793.4,126388591.7,98376087.35
+192,1,Global,2059,Live Births,1,Number,0.0,Reference,109591938.8,125660031.3,97383248.42
+193,1,Global,2060,Live Births,1,Number,0.0,Reference,108715610.7,125018839.5,96399359.84
+194,1,Global,2061,Live Births,1,Number,0.0,Reference,107846359.1,124360999.4,95448161.84
+195,1,Global,2062,Live Births,1,Number,0.0,Reference,106990387.3,123657580.7,94552403.03
+196,1,Global,2063,Live Births,1,Number,0.0,Reference,106150914.9,123064826.9,93684743.6
+197,1,Global,2064,Live Births,1,Number,0.0,Reference,105314449.5,122514199.7,92709829.15
+198,1,Global,2065,Live Births,1,Number,0.0,Reference,104485740.8,122142952.9,91759509.35
+199,1,Global,2066,Live Births,1,Number,0.0,Reference,103661450.8,121613375.3,90947469.01
+200,1,Global,2067,Live Births,1,Number,0.0,Reference,102850090.4,121258036.5,89893592.28
+201,1,Global,2068,Live Births,1,Number,0.0,Reference,102043918.0,120677316.3,89004982.55
+202,1,Global,2069,Live Births,1,Number,0.0,Reference,101237670.4,120054531.1,88145867.91
+203,1,Global,2070,Live Births,1,Number,0.0,Reference,100433023.9,119559587.5,87368701.59
+204,1,Global,2071,Live Births,1,Number,0.0,Reference,99625913.79,118718049.3,86346946.76
+205,1,Global,2072,Live Births,1,Number,0.0,Reference,98817233.4,117947160.8,85395539.01
+206,1,Global,2073,Live Births,1,Number,0.0,Reference,98008101.58,117042789.2,84380636.74
+207,1,Global,2074,Live Births,1,Number,0.0,Reference,97199884.59,116595214.9,83513231.47
+208,1,Global,2075,Live Births,1,Number,0.0,Reference,96402663.9,115673325.1,82626547.95
+209,1,Global,2076,Live Births,1,Number,0.0,Reference,95609781.87,114975112.3,81763477.46
+210,1,Global,2077,Live Births,1,Number,0.0,Reference,94823146.5,114648799.4,80862062.95
+211,1,Global,2078,Live Births,1,Number,0.0,Reference,94041099.04,113884436.4,79814100.88
+212,1,Global,2079,Live Births,1,Number,0.0,Reference,93268054.69,113361582.2,78990328.7
+213,1,Global,2080,Live Births,1,Number,0.0,Reference,92508525.76,112684131.9,78069149.16
+214,1,Global,2081,Live Births,1,Number,0.0,Reference,91757145.15,112148189.8,77100108.23
+215,1,Global,2082,Live Births,1,Number,0.0,Reference,91017702.39,111860119.3,76301419.46
+216,1,Global,2083,Live Births,1,Number,0.0,Reference,90288107.91,111422818.3,75368893.94
+217,1,Global,2084,Live Births,1,Number,0.0,Reference,89568426.92,110954678.8,74664706.79
+218,1,Global,2085,Live Births,1,Number,0.0,Reference,88855511.64,110419427.8,73862577.27
+219,1,Global,2086,Live Births,1,Number,0.0,Reference,88150909.57,109944073.7,73008525.89
+220,1,Global,2087,Live Births,1,Number,0.0,Reference,87457437.53,109588587.7,72208371.39
+221,1,Global,2088,Live Births,1,Number,0.0,Reference,86773863.34,109178311.6,71494349.5
+222,1,Global,2089,Live Births,1,Number,0.0,Reference,86100191.11,108837373.9,70629493.56
+223,1,Global,2090,Live Births,1,Number,0.0,Reference,85431070.24,108434414.0,69853366.15
+224,1,Global,2091,Live Births,1,Number,0.0,Reference,84777012.45,107926181.7,69029974.85
+225,1,Global,2092,Live Births,1,Number,0.0,Reference,84135458.44,107670173.6,68285568.89
+226,1,Global,2093,Live Births,1,Number,0.0,Reference,83507342.72,107746574.8,67629817.16
+227,1,Global,2094,Live Births,1,Number,0.0,Reference,82892167.22,107940540.8,66913119.03
+228,1,Global,2095,Live Births,1,Number,0.0,Reference,82283212.01,107465737.7,66135297.08
+229,1,Global,2096,Live Births,1,Number,0.0,Reference,81680572.88,107072502.1,65369445.1
+230,1,Global,2097,Live Births,1,Number,0.0,Reference,81078827.01,106391303.9,64732052.1
+231,1,Global,2098,Live Births,1,Number,0.0,Reference,80474582.46,105862421.8,64048171.46
+232,1,Global,2099,Live Births,1,Number,0.0,Reference,79873605.19,105125272.5,63315658.89
+233,1,Global,2100,Live Births,1,Number,0.0,Reference,79276852.32,104623937.1,62660683.63
+400,1,Global,2018,Live Births,1,Number,3.0,SDG Met Need and Education,138734043.7,149443832.1,129034186.6
+401,1,Global,2019,Live Births,1,Number,3.0,SDG Met Need and Education,138647951.9,150316269.8,128488259.5
+402,1,Global,2020,Live Births,1,Number,3.0,SDG Met Need and Education,138328248.4,152180090.0,126791245.5
+403,1,Global,2021,Live Births,1,Number,3.0,SDG Met Need and Education,137868568.4,153618366.8,124723723.4
+404,1,Global,2022,Live Births,1,Number,3.0,SDG Met Need and Education,137426486.1,154817235.3,123127107.1
+405,1,Global,2023,Live Births,1,Number,3.0,SDG Met Need and Education,136917671.9,154525509.6,122133619.3
+406,1,Global,2024,Live Births,1,Number,3.0,SDG Met Need and Education,136204189.2,152282181.5,122704670.3
+407,1,Global,2025,Live Births,1,Number,3.0,SDG Met Need and Education,135399182.3,150451747.8,122668886.1
+408,1,Global,2026,Live Births,1,Number,3.0,SDG Met Need and Education,134576157.7,150306724.9,121623914.8
+409,1,Global,2027,Live Births,1,Number,3.0,SDG Met Need and Education,133837588.0,150483950.4,120510851.3
+410,1,Global,2028,Live Births,1,Number,3.0,SDG Met Need and Education,133162956.6,149221810.3,119846088.4
+411,1,Global,2029,Live Births,1,Number,3.0,SDG Met Need and Education,132456839.9,147346639.6,120222233.0
+412,1,Global,2030,Live Births,1,Number,3.0,SDG Met Need and Education,131745308.4,145766478.4,120151670.0
+413,1,Global,2031,Live Births,1,Number,3.0,SDG Met Need and Education,131037796.8,145097520.3,119465172.1
+414,1,Global,2032,Live Births,1,Number,3.0,SDG Met Need and Education,130384577.2,145158254.7,118704510.9
+415,1,Global,2033,Live Births,1,Number,3.0,SDG Met Need and Education,129790875.5,144082153.1,118344674.3
+416,1,Global,2034,Live Births,1,Number,3.0,SDG Met Need and Education,129186793.0,142689330.5,118383606.0
+417,1,Global,2035,Live Births,1,Number,3.0,SDG Met Need and Education,128580483.3,141288851.6,118221438.5
+418,1,Global,2036,Live Births,1,Number,3.0,SDG Met Need and Education,127951448.3,140431051.2,117898285.3
+419,1,Global,2037,Live Births,1,Number,3.0,SDG Met Need and Education,127326853.5,139924694.7,117328402.3
+420,1,Global,2038,Live Births,1,Number,3.0,SDG Met Need and Education,126633679.8,138722410.6,116810233.5
+421,1,Global,2039,Live Births,1,Number,3.0,SDG Met Need and Education,125836918.4,137851822.6,116200237.5
+422,1,Global,2040,Live Births,1,Number,3.0,SDG Met Need and Education,124964822.2,136915448.0,115411640.2
+423,1,Global,2041,Live Births,1,Number,3.0,SDG Met Need and Education,124001053.5,135949604.2,114560327.4
+424,1,Global,2042,Live Births,1,Number,3.0,SDG Met Need and Education,122933629.8,134898906.7,113390160.3
+425,1,Global,2043,Live Births,1,Number,3.0,SDG Met Need and Education,121687652.6,133855742.4,112078088.3
+426,1,Global,2044,Live Births,1,Number,3.0,SDG Met Need and Education,120261174.0,132446884.2,110544575.8
+427,1,Global,2045,Live Births,1,Number,3.0,SDG Met Need and Education,118670014.3,130795557.6,109068606.6
+428,1,Global,2046,Live Births,1,Number,3.0,SDG Met Need and Education,116920628.5,128938426.7,107245249.7
+429,1,Global,2047,Live Births,1,Number,3.0,SDG Met Need and Education,115006311.2,127080006.9,105175997.3
+430,1,Global,2048,Live Births,1,Number,3.0,SDG Met Need and Education,112977948.7,125219176.9,103089906.4
+431,1,Global,2049,Live Births,1,Number,3.0,SDG Met Need and Education,110829973.0,122932041.5,100972372.7
+432,1,Global,2050,Live Births,1,Number,3.0,SDG Met Need and Education,108559006.1,120582139.0,98737999.29
+433,1,Global,2051,Live Births,1,Number,3.0,SDG Met Need and Education,106187583.7,118249029.6,96533385.84
+434,1,Global,2052,Live Births,1,Number,3.0,SDG Met Need and Education,103709177.0,115406919.1,94096953.72
+435,1,Global,2053,Live Births,1,Number,3.0,SDG Met Need and Education,101179103.5,112612897.6,91528037.68
+436,1,Global,2054,Live Births,1,Number,3.0,SDG Met Need and Education,98638644.53,110003484.8,89050622.09
+437,1,Global,2055,Live Births,1,Number,3.0,SDG Met Need and Education,96086627.18,107490693.7,86485141.97
+438,1,Global,2056,Live Births,1,Number,3.0,SDG Met Need and Education,93545037.16,105079661.1,83975888.97
+439,1,Global,2057,Live Births,1,Number,3.0,SDG Met Need and Education,91011863.07,102484290.1,81497593.44
+440,1,Global,2058,Live Births,1,Number,3.0,SDG Met Need and Education,88534542.52,99896637.11,79025785.12
+441,1,Global,2059,Live Births,1,Number,3.0,SDG Met Need and Education,86157230.56,97502180.92,76782419.72
+442,1,Global,2060,Live Births,1,Number,3.0,SDG Met Need and Education,83880346.13,95234277.8,74617264.09
+443,1,Global,2061,Live Births,1,Number,3.0,SDG Met Need and Education,81709332.14,92909125.82,72551532.77
+444,1,Global,2062,Live Births,1,Number,3.0,SDG Met Need and Education,79647657.84,90924263.24,70544615.54
+445,1,Global,2063,Live Births,1,Number,3.0,SDG Met Need and Education,77711126.18,88886091.86,68811942.4
+446,1,Global,2064,Live Births,1,Number,3.0,SDG Met Need and Education,75909360.78,87313801.67,66924786.27
+447,1,Global,2065,Live Births,1,Number,3.0,SDG Met Need and Education,74241487.95,85682244.62,65268451.8
+448,1,Global,2066,Live Births,1,Number,3.0,SDG Met Need and Education,72702336.97,84043345.01,63747002.03
+449,1,Global,2067,Live Births,1,Number,3.0,SDG Met Need and Education,71290889.36,82850675.51,62174938.02
+450,1,Global,2068,Live Births,1,Number,3.0,SDG Met Need and Education,69992921.75,81697025.17,60903669.5
+451,1,Global,2069,Live Births,1,Number,3.0,SDG Met Need and Education,68794219.19,80490940.22,59695933.65
+452,1,Global,2070,Live Births,1,Number,3.0,SDG Met Need and Education,67690530.6,79416849.34,58525643.63
+453,1,Global,2071,Live Births,1,Number,3.0,SDG Met Need and Education,66671173.61,78428345.88,57453742.24
+454,1,Global,2072,Live Births,1,Number,3.0,SDG Met Need and Education,65728133.95,77591900.39,56468829.57
+455,1,Global,2073,Live Births,1,Number,3.0,SDG Met Need and Education,64837362.37,76735517.4,55459233.88
+456,1,Global,2074,Live Births,1,Number,3.0,SDG Met Need and Education,63979622.1,76006999.15,54533890.58
+457,1,Global,2075,Live Births,1,Number,3.0,SDG Met Need and Education,63155092.53,75288947.68,53583063.76
+458,1,Global,2076,Live Births,1,Number,3.0,SDG Met Need and Education,62352107.69,74604160.53,52761116.29
+459,1,Global,2077,Live Births,1,Number,3.0,SDG Met Need and Education,61569303.92,73917311.37,51966626.89
+460,1,Global,2078,Live Births,1,Number,3.0,SDG Met Need and Education,60787878.27,73323249.42,51106383.69
+461,1,Global,2079,Live Births,1,Number,3.0,SDG Met Need and Education,59998657.49,72533617.6,50271806.81
+462,1,Global,2080,Live Births,1,Number,3.0,SDG Met Need and Education,59203386.99,71761628.24,49410961.11
+463,1,Global,2081,Live Births,1,Number,3.0,SDG Met Need and Education,58398312.85,70968030.22,48619892.68
+464,1,Global,2082,Live Births,1,Number,3.0,SDG Met Need and Education,57590507.48,70237603.07,47711031.94
+465,1,Global,2083,Live Births,1,Number,3.0,SDG Met Need and Education,56772569.95,69436075.57,46926755.13
+466,1,Global,2084,Live Births,1,Number,3.0,SDG Met Need and Education,55941320.71,68736702.43,46086757.7
+467,1,Global,2085,Live Births,1,Number,3.0,SDG Met Need and Education,55099195.07,68051336.55,45152999.41
+468,1,Global,2086,Live Births,1,Number,3.0,SDG Met Need and Education,54252019.24,67176040.08,44213098.62
+469,1,Global,2087,Live Births,1,Number,3.0,SDG Met Need and Education,53408548.46,66388801.27,43359886.25
+470,1,Global,2088,Live Births,1,Number,3.0,SDG Met Need and Education,52573958.48,65527244.4,42531878.31
+471,1,Global,2089,Live Births,1,Number,3.0,SDG Met Need and Education,51749814.62,64828003.62,41647650.0
+472,1,Global,2090,Live Births,1,Number,3.0,SDG Met Need and Education,50938062.25,64281287.37,40701198.54
+473,1,Global,2091,Live Births,1,Number,3.0,SDG Met Need and Education,50150251.3,63662804.94,39945127.71
+474,1,Global,2092,Live Births,1,Number,3.0,SDG Met Need and Education,49389410.12,63023351.66,39156430.97
+475,1,Global,2093,Live Births,1,Number,3.0,SDG Met Need and Education,48658002.94,62405824.78,38414586.53
+476,1,Global,2094,Live Births,1,Number,3.0,SDG Met Need and Education,47960633.97,61690673.93,37691060.16
+477,1,Global,2095,Live Births,1,Number,3.0,SDG Met Need and Education,47291979.32,61287008.56,36961528.68
+478,1,Global,2096,Live Births,1,Number,3.0,SDG Met Need and Education,46654933.68,60869525.05,36293806.41
+479,1,Global,2097,Live Births,1,Number,3.0,SDG Met Need and Education,46046016.42,60305283.28,35574736.35
+480,1,Global,2098,Live Births,1,Number,3.0,SDG Met Need and Education,45466774.02,59804357.13,34908062.6
+481,1,Global,2099,Live Births,1,Number,3.0,SDG Met Need and Education,44917902.93,59312757.61,34318882.71
+482,1,Global,2100,Live Births,1,Number,3.0,SDG Met Need and Education,44394716.47,58908604.84,33718421.04
