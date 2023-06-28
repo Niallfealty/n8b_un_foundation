@@ -13,14 +13,14 @@
 
 This is a summary review of the information contained in other documents in this section. We briefly describe (and point to some useful high-level resources) main forecasts and key points related to later stages of the project.
 
-For a much more detailed review and resource collection of population projections please see the DetailedNotes.md document in this folder.
+For a much more detailed review and resource collection of population projections please see the DetailedNotes.md document in this folder (though note that these are organised as a collection of references and will be less readable).
 
 ## Key forecasts
 
 We consider the following forecasts to be relevant to the project.
 
 - United Nations Population Division: Population Prospects
-- Witgenstein Centre population projection
+- Witgenstein Centre population projection **(we drop the Wittgenstein centre prediction as unlike the other forecasts we have chosen this doesn't extend to 2100 and is therefore unlikely to forecast the next 8 billion births)**
 - Global Burden of Disease Study (AKA: the Lancet model)
 - Earth4All model
 
