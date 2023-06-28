@@ -1,4 +1,4 @@
-# Summary document for literature review
+# Raw notes document for literature review
 
 N.B. Subject to being used as a scratchpad during lit review, to be whittled down and split out into more modular notes later.
 
