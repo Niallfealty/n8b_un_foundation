@@ -23,25 +23,28 @@ These are the scenarios we consider:
 
 #### Scenarios
 
-- A scenario
-- A N other scenario
+- High, Medium, Low fertility; based on fertility scenarios, see text below (instant-replacement and constant fertility included for completeness)
+```
+Five of those scenarios differ only with respect to the level of fertility, that is, they share the same assumptions made with respect to sex ratio at birth, mortality and international migration. The five fertility scenarios are: low, medium, high, constant-fertility and instant-replacement-fertility. A comparison of the results from these five scenarios allows an assessment of the effects that different fertility assumptions have on other demographic parameters. The high, low, constant-fertility and instant-replacement scenarios differ from the medium scenario only in the projected level of total fertility. In the high scenario, total fertility is projected to reach a fertility level that is 0.5 births above the total fertility in the medium scenario. In the low scenario, total fertility is projected to remain 0.5 births below the total fertility in the medium scenario. In the constant-fertility scenario, total fertility remains constant at the level estimated for 2022. In the instant-replacement scenario, fertility for each country is set to the level necessary to ensure a net reproduction rate of 1.0 starting in 2022. Fertility varies slightly over the projection period in such a way that the net reproduction rate always remains equal to one, thus ensuring the replacement of the population over the long run. 
+```
 
-These compare to our categories as follows
+[All scenarios are laid out here](https://population.un.org/wpp/DefinitionOfProjectionScenarios)
 
 
-### Lancet model
+### Lancet/GBD
 
-- A scenario
-- A N other scenario
+- Reference
+- SGD met need
 
-These compare to our categories as follows
+The Global Burden of Disease model (GBD) had two scenarios we considered - a reference scenario which used [mortality from this paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31694-5/fulltext)
+
 
 ### Earth4All
 
-- A scenario
-- A N other scenario
+- Too little too late (TLTL)
+- Giant Leap (GL)
 
-These compare to our categories as follows
+These scenarios are based on sets of policy assumptions, [detailed in p38-49 of this paper (v1)](https://eartharxiv.org/repository/view/5111/). The headline description of the scenarios are: TLTL - decision making as usual; GL - testing policy run for well-being
 
 
 
