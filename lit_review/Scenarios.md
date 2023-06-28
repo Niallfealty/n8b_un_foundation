@@ -36,7 +36,14 @@ Five of those scenarios differ only with respect to the level of fertility, that
 - Reference
 - SGD met need
 
-The Global Burden of Disease model (GBD) had two scenarios we considered - a reference scenario which used [mortality from this paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31694-5/fulltext)
+The Global Burden of Disease model (GBD) had two scenarios we considered - a reference scenario which used [mortality parameter estimation methodology from this paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2931694-5/fulltext) and is described in [the key Lancet paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930677-2/fulltext), the alternative scenarios are described in this piece of text from the latter paper (we use only the SDG paper)
+
+```
+In addition to the reference scenario, we developed four alternative scenarios that reflected faster or slower trajectories for two key drivers of fertility rates: education of females, and access to modern reproductive health services, measured by contraceptive met need.31
+The slower, faster, and fastest alternate scenarios were derived by setting the annualised rate of change for education and contraceptive met need to their respective 15th, 85th, and 99th percentile rates of change across locations in the period 1990–2017. For the UN Sustainable Development Goal (SDG) pace alternate scenario, we set a rate of change to one that would allow all locations to meet the SDG targets for educational attainment (universal secondary education by 2030)32
+and contraceptive met need (universal coverage by 2030).33
+We held those rates constant past 2030 in the education SDG scenario, and held contraceptive met need at 100% coverage past 2030 (appendix 1, section 10). This scenario shows what we can expect population trends to look like if every country and territory meets the SDGs for education and contraceptive met need by 2030. Many countries are not on track to achieve these goals.34
+```
 
 
 ### Earth4All
